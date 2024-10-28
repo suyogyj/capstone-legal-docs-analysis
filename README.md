@@ -1,6 +1,13 @@
 # Capstone Project (Monsoon 2024) - Legal Document Analysis using LLMs and Knowledge Graphs
 This repository contains code and the dataset for my fourth-year Capstone Project.
 
+- [Capstone Project (Monsoon 2024) - Legal Document Analysis using LLMs and Knowledge Graphs](#capstone-project-monsoon-2024---legal-document-analysis-using-llms-and-knowledge-graphs)
+    - [Problem Statement](#problem-statement)
+    - [Dataset](#dataset)
+    - [Methodology](#methodology)
+    - [Knowledge Graph Design](#knowledge-graph-design)
+
+
 ### Problem Statement
 Legal documents are complex in nature, and analysing vast amounts of such documents
 is a time-consuming task. Extracting insights (such as common statutes cited, similarity
