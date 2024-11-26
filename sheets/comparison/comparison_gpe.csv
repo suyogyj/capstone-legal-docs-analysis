@@ -1,0 +1,197 @@
+,file_name,gpt extracted gpe,ner extracted gpe,true_positives,false_positives,false_negatives
+0,Abhijeet_Suryakant_Maske_And_Anr_vs_The_State_Of_Maharashtra_on_1_March_2022.PDF,"['maharashtra', 'pune']","['mumbai', 'pune']",1.0,1.0,1.0
+1,Amluya_Anand_vs_State_on_8_March_2022.PDF,"['devgarh road, thanwla district nagaur', 'gurgaon', 'jodhpur', 'mujjafarpur', 'nagaur']","['ajmer', 'jodhpur', 'nagaur', 'thanwla district nagaur']",2.0,3.0,2.0
+2,Arulmurugan_Starch_Industries_vs_Food_Safety_And_Standards_Authority_Of_on_19_January_2022.PDF,"['chennai', 'new delhi', 'salem district']","['chennai', 'new delhi', 'salem district', 'salem-1']",3.0,0.0,1.0
+3,Arun_Raosaheb_Khot_vs_State_Of_Maharashtra_on_31_January_2022.PDF,"['maharashtra', 'pune']",['mumbai'],0.0,2.0,1.0
+4,Asha_Singh_vs_The_State_Of_Bihar_on_24_March_2022.PDF,"['bihar', 'east champaran', 'motihari', 'patna']","['bihar', 'motihari', 'raghunathpur', 'turkauliya']",2.0,2.0,2.0
+5,Avinash_Balkrishna_Bhamre_vs_State_Of_Maharashtra_on_8_March_2022.PDF,"['maharashtra', 'nashik']","['aurangabad', 'mumbai', 'nashik', 'niphad']",1.0,1.0,3.0
+6,Ayesha_Hajeera_Almas_vs_Chief_Secretary_on_15_March_2022.PDF,"['bengaluru', 'karnataka', 'kundapura', 'manipal', 'udupi']","['america', 'australia', 'bangalore', 'bangalore-560001', 'bangalore-560038', 'bangalore-560043', 'bengaluru', 'bengaluru-560001', 'bengaluru-560012', 'bengaluru-560043', 'bombay', 'cdmc', 'centralia', 'centralia, illinois', 'england', 'europe', 'hindu society', 'india', 'indian', 'islam', 'islamize india', 'karnataka', 'madras', 'malaysia', 'maleswaram', 'medina', 'mesopotamia', 'middle east', 'near', 'new delhi', 'new delhi--110011', 'riyadh', 'saudi arabia', 'southwestern arabia', 'u.s.a.', 'udupi', 'udupi city', 'united states', 'united states of america', 'us']",3.0,2.0,37.0
+7,A_R_Starch_Products_vs_The_Commissioner_Of_Food_Safety_on_3_January_2022.PDF,"['chennai', 'namakkal district', 'new delhi']","['600', '637', 'chennai', 'namakkal district', 'namakkal –', 'new delhi', 'tamil nadu', 'tamil nadu food safety and drug administration department']",3.0,0.0,5.0
+8,Badam_Sampath_Kumar_vs_State_Of_Odisha_Opp_Party_on_8_February_2022.PDF,"['cuttack', 'odisha']",[],0.0,2.0,0.0
+9,Baswaraj_Vishwanath_Agre_vs_The_State_Of_Maharashtra_on_3_March_2022.PDF,"['latur', 'maharashtra']",['latur'],1.0,1.0,0.0
+10,Bharat_Sukhdev_Dhobale_vs_The_State_Of_Maharashtra_on_21_February_2022.PDF,"['aurangabad', 'maharashtra']","['aurangabad', 'mumbai']",1.0,1.0,1.0
+11,Bijaya_Kumar_Kamani_vs_State_Of_Odisha_Opposite_Party_on_1_February_2022.PDF,"['cuttack', 'kolkata', 'odisha']","['cuttack', 'kolkata']",2.0,1.0,0.0
+12,Binod_Kumar_Agrawal_vs_State_Of_Odisha_Opp_Party_on_9_February_2022.PDF,"['kantabanji', 'odisha']",[],0.0,2.0,0.0
+13,Bose_Mathew_vs_The_State_Of_Kerala_on_4_March_2022.PDF,"['changanacherry', 'kerala', 'kottayam']",[],0.0,3.0,0.0
+14,Burra_Lingaiah_Yadav_vs_The_State_Of_Telangana_And_3_Others_on_10_February_2022.PDF,"['nalgonda district', 'telangana']",[],0.0,2.0,0.0
+15,B_Ramesh_vs_State_Of_Odisha_Opposite_Party_on_4_February_2022.PDF,"['cuttack', 'odisha']",[],0.0,2.0,0.0
+16,Chintalagunta_Gopi_vs_The_State_Of_Andhra_Pradesh_on_7_January_2022.PDF,"['andhra pradesh', 'guntur district']",[],0.0,2.0,0.0
+17,Code_Of_Criminal_Procedure_vs_Unknown_on_4_January_2022.PDF,"['guntur district', 'kurnool district']",[],0.0,2.0,0.0
+18,CRLP_1377_2022_on_9_March_2022.PDF,['west godavari district'],[],0.0,1.0,0.0
+19,CRLP_1440_2020_on_6_January_2022.PDF,"['ananthapur district', 'guntur district', 'guntur urban', 'srikakulam district', 'vijayawada city']",[],0.0,5.0,0.0
+20,CRLP_1598_2022_on_9_March_2022.PDF,"['andhra pradesh', 'guntur district']",[],0.0,2.0,0.0
+21,CRLP_1669_2022_on_10_March_2022.PDF,"['andhra pradesh', 'mangalagiri']",[],0.0,2.0,0.0
+22,CRLP_1671_2022_on_10_March_2022.PDF,"['andhra pradesh', 'mangalagiri']",[],0.0,2.0,0.0
+23,CRLP_1717_2022_on_10_March_2022.PDF,"['amaravati', 'andhra pradesh', 'mangalagiri']",[],0.0,3.0,0.0
+24,CRLP_1720_2022_on_10_March_2022.PDF,['amaravati'],[],0.0,1.0,0.0
+25,CRLP_1759_2022_on_11_March_2022.PDF,"['andhra pradesh', 'srikakulam district']",[],0.0,2.0,0.0
+26,CRLP_1760_2022_on_11_March_2022.PDF,"['andhra pradesh', 'srikakulam district']",[],0.0,2.0,0.0
+27,CRLP_282_2022_on_27_January_2022.PDF,"['guntur district', 'spsr nellore district']",[],0.0,2.0,0.0
+28,CRLP_3708_2021_on_6_January_2022.PDF,"['ananthapur district', 'guntur district', 'guntur urban', 'srikakulam district', 'vijayawada city']",[],0.0,5.0,0.0
+29,CRLP_3866_2021_on_6_January_2022.PDF,"['ananthapur district', 'guntur district', 'guntur urban', 'srikakulam district', 'vijayawada city']",[],0.0,5.0,0.0
+30,CRLP_4494_2021_on_6_January_2022.PDF,"['ananthapur district', 'guntur district', 'guntur urban', 'srikakulam district', 'vijayawada city']",[],0.0,5.0,0.0
+31,CRLP_4698_2021_on_6_January_2022.PDF,"['ananthapur district', 'guntur district', 'guntur urban', 'srikakulam district', 'vijayawada city']",[],0.0,5.0,0.0
+32,CRLP_4749_2021_on_6_January_2022.PDF,"['ananthapur district', 'guntur urban', 'srikakulam district', 'vijayawada city']",[],0.0,4.0,0.0
+33,CRLP_490_2022_on_8_February_2022.PDF,"['anantapur district', 'guntur district', 'guntur urban']",[],0.0,3.0,0.0
+34,CRLP_5156_2019_on_6_January_2022.PDF,"['guntur district', 'kothavalasa', 'kurnool district', 'rajahmundry']",[],0.0,4.0,0.0
+35,CRLP_5163_2019_on_6_January_2022.PDF,"['guntur district', 'kothavalasa', 'kurnool district', 'rajahmundry']",[],0.0,4.0,0.0
+36,CRLP_5641_2021_on_6_January_2022.PDF,"['guntur district', 'kothavalasa', 'kurnool district', 'rajahmundry']",[],0.0,4.0,0.0
+37,CRLP_6833_2021_on_6_January_2022.PDF,"['guntur district', 'kothavalasa', 'kurnool district', 'rajahmundry']",[],0.0,4.0,0.0
+38,CRLP_6838_2021_on_6_January_2022.PDF,"['guntur district', 'kothavalasa', 'kurnool district', 'rajahmundry']",[],0.0,4.0,0.0
+39,CRLP_6843_2021_on_6_January_2022.PDF,"['guntur district', 'kothavalasa', 'kurnool district', 'rajahmundry']",[],0.0,4.0,0.0
+40,CRLP_6849_2021_on_6_January_2022.PDF,"['guntur district', 'kothavalasa', 'kurnool district', 'rajahmundry', 'savallyapuram']",[],0.0,5.0,0.0
+41,CRLP_808_2022_on_16_February_2022.PDF,"['nidupet', 'spsr nellore district']",['nellore district'],0.0,2.0,1.0
+42,CRLP_848_2022_on_16_February_2022.PDF,['sri potti sree ramulu nellore district'],['nellore district'],0.0,1.0,1.0
+43,CRLP_852_2022_on_16_February_2022.PDF,['sri potti sree ramulu nellore district'],[],0.0,1.0,0.0
+44,Cr_Cases_7164_2019_on_3_February_2022.PDF,"['delhi', 'delhi cantonment']","['delhi', 'delhi cantonment', 'delhi-10', 'panchnama']",2.0,0.0,2.0
+45,Dabur_India_Ltd_vs_Shiv_G_Shetti_Ors_on_23_March_2022.PDF,['new delhi'],"['delhi', 'india']",0.0,1.0,2.0
+46,Deepa_Naresh_Bhavnani_vs_State_Of_Maharashtra_on_24_January_2022.PDF,"['district-thane', 'ulhasnagar']","['thane', 'ulhasnagar-4']",0.0,2.0,2.0
+47,Delhi_Golf_Club_Employees_Union_vs_Union_Of_India_on_24_February_2022.PDF,['new delhi'],['new delhi district'],0.0,1.0,1.0
+48,Dharampal_Satyapal_Ltd_vs_The_State_Of_Maharashtra_And_3_Ors_on_30_March_2022.PDF,"['assam', 'guwahati', 'maharashtra']","['assam', 'central district', 'chandmari', 'guwahati', 'hyderabad', 'maharashtra', 'maharastra', 'solapur', 'state of maharastra']",3.0,0.0,6.0
+49,Dharmendra_Ghanshayamdas_Hasani_vs_The_State_Of_Maharashtra_on_9_March_2022.PDF,"['gujrat state', 'jalgaon', 'maharashtra', 'nandurbar']","['gujrat state', 'maharashtra', 'nandurbar']",3.0,1.0,0.0
+50,Dilip_Kumar_Yadav_vs_The_State_Of_Bihar_on_3_February_2022.PDF,"['bihar', 'muzaffarpur']",['muzaffarpur'],1.0,1.0,0.0
+51,Dilip_Saha_vs_The_State_Of_Assam_on_10_March_2022.PDF,"['assam', 'diphu', 'guwahati', 'karbi anglong']","['assam', 'diphu', 'guwahati', 'rajanigandha']",3.0,1.0,1.0
+52,Dillip_Kumar_Das_Anr_vs_State_Of_Odisha_Opposite_Party_on_21_February_2022.PDF,"['cuttack', 'odisha']",[],0.0,2.0,0.0
+53,Dr_Krishna_Ram_H_vs_The_Chief_Secretary_To_Government_on_30_March_2022.PDF,"['ballari', 'belagavi', 'belgaum', 'bengaluru', 'bidar', 'chikballapur', 'chikkamagaluru', 'chitradurga', 'dakshina kannada', 'davangere', 'dharwad', 'gadag', 'hassan', 'haveri', 'kalaburagi', 'kodagu', 'kolar', 'koppal', 'mandya', 'mangalore', 'mysore', 'raichur', 'shimoga', 'tumkur', 'uttara kannada', 'vijayapura']",['new delhi'],0.0,26.0,1.0
+54,Dwarampudi_Sivarama_Reddy_vs_The_State_Of_Andhra_Pradesh_on_5_January_2022.PDF,['andhra pradesh'],[],0.0,1.0,0.0
+55,Fardin_Moinddin_Shaikh_vs_State_Of_Maharashtra_on_3_January_2022.PDF,"['maharashtra', 'solapur']",[],0.0,2.0,0.0
+56,Galactus_Funware_Technology_Private_vs_State_Of_Karnatka_on_14_February_2022.PDF,"['bengaluru', 'delhi', 'hyderabad', 'karnataka', 'maharashtra', 'mumbai', 'thane west']","['australia', 'bank mellat', 'europe', 'france', 'india', 'karnataka', 'karnatka', 'madras', 'state of karnatka', 'u.k.', 'united kingdom', 'venice']",1.0,6.0,11.0
+57,Ghanshyambhai_Dahyabhai_Patel_vs_State_Of_Gujarat_on_3_March_2022.PDF,"['ahmedabad', 'gandhinagar']",['gandhinagar'],1.0,1.0,0.0
+58,Goldripe_International_Pvt_Ltd_vs_The_State_Of_Telangana_on_19_January_2022.PDF,"['secunderabad', 'telangana']","['bengaluru', 'ethephon', 'indian', 'new delhi-110002', 'telangana']",1.0,1.0,4.0
+59,Gonugunta_Venkata_Suresh_vs_The_State_Of_Andhra_Pradesh_on_18_January_2022.PDF,"['andhra pradesh', 'spsr nellore district']",[],0.0,2.0,0.0
+60,Gyanaduttachouhan_vs_The_Additional_Chief_Secretary_To_on_23_March_2022.PDF,"['bargarh district', 'kendbahal', 'odisha', 'sambalpur']","['bargarh', 'bargarh district', 'burla', 'covid-19', 'deogarh', 'gujarat', 'jharsuguda', 'kendbahal', 'maharashtra', 'odisha', 'orissa', 'rajasthan', 'sambalpur', 'state of maharashtra', 'state of orissa', 'uttar pradesh', 'west bengal']",4.0,0.0,13.0
+61,G_Sudheeshkumar_vs_State_Of_Kerala_on_15_February_2022.PDF,"['kerala', 'thiruvananthapuram']",[],0.0,2.0,0.0
+62,Haldiram_Bhujiawala_Limited_vs_The_State_Of_Jharkhand_Others_on_9_February_2022.PDF,"['bokaro', 'jharkhand', 'namkum', 'ranchi']","['bokaro', 'ranchi']",2.0,2.0,0.0
+63,High_Court_On_Its_Own_Motion_In_The_vs_Bhiwandi_Nizampur_Municipal_on_26_February_2022.PDF,"['bhiwandi', 'mumbai']","['bandra- kurla', 'bandra-kurla', 'bandra-kurla complex', 'bhiwandi', 'bombay', 'bombay suburban district', 'borivali', 'city of greater mumbai', 'cuttack', 'eastern suburb', 'greater mumbai', 'hong kong', 'india', 'maharashtra', 'malad', 'malad (', 'malad-2', 'malvani', 'malwani', 'malwani slum', 'malwani village', 'mcgm', 'mumbai', 'mumbai city', 'mumbai metropolitan region', 'mumbai suburban district', 'mumbra', 'nagar', 'ofcuttack', 'singapore', 'thane', 'uk', 'united kingdom', 'united states', 'united states of america', 'usa']",2.0,0.0,34.0
+64,Imran_Shamshad_Ansari_vs_The_State_Of_Maharashtra_on_25_January_2022.PDF,"['maharashtra', 'raigad']","['aurangabad', 'mumbai']",0.0,2.0,2.0
+65,Indian_Oil_Corporation_Limited_And_vs_All_Haryana_Petroleum_Dealers_on_10_January_2022.PDF,"['bihar', 'delhi', 'haryana']","['delhi', 'geneva', 'lucknow', 'madras', 'uttar pradesh']",1.0,2.0,4.0
+66,Indian_Oil_Corporation_Limited_And_vs_All_India_Petroleum_Dealers_on_10_January_2022.PDF,"['bihar', 'delhi', 'haryana']","['delhi', 'geneva', 'lucknow', 'madras', 'uttar pradesh']",1.0,2.0,4.0
+67,Indian_Oil_Corporation_Limited_And_vs_Bihar_Petroleum_Dealers_Association_on_10_January_2022.PDF,"['bihar', 'delhi', 'haryana']","['delhi', 'geneva', 'lucknow', 'madras', 'uttar pradesh']",1.0,2.0,4.0
+68,In_Re_Children_In_Street_Situations_vs_This_Writ_Petition_Has_Been_Filed_For_The_on_1_February_2022.PDF,"['andhra pradesh', 'arunachal pradesh', 'assam', 'bihar', 'chhattisgarh', 'delhi', 'gujarat', 'haryana', 'himachal pradesh', 'jaipur', 'jharkhand', 'madhya pradesh', 'meghalaya', 'mizoram', 'nagaland', 'puducherry', 'punjab', 'rajasthan', 'sikkim', 'tamil nadu', 'telangana', 'tripura', 'uttar pradesh', 'west bengal']","['aligarh', 'andhra pradesh', 'aor islands state of jharkhand', 'assam', 'bihar', 'champaran districts', 'chandigarh', 'delhi', 'firozabad', 'gaya', 'gujarat', 'india', 'jaipur', 'kirawal nagar', 'madhya pradesh', 'mandsaur', 'markapur', 'mirzapur- bhadohi', 'moradabad', 'nct delhi', 'odisha', 'patna', 'puducherry', 'rajasthan', 'sitamarhi', 'sivakasi', 'state of chhattisgarh', 'state of gujarat', 'state of mah', 'state of sikkim', 'surat', 'taluk', 'tamil nadu', 'tamilnadu', 'telangana', 'uttar pradesh', 'west bengal']",13.0,11.0,24.0
+69,In_The_Impugned_Award_It_Is_To_Be_Noted_vs_No_1_Has_Not_Challenged_The_Rejection_Of_on_3_January_2022.PDF,['bengaluru'],"['-', '560', 'bengaluru', 'delhi', 'india', 'mantri flora', 'mantri flora complex', 'nirmala', 'para']",1.0,0.0,8.0
+70,Israr_Mansoori_Mustaq_Mansoori_vs_The_State_Of_Maharashtra_on_10_February_2022.PDF,"['bhiwandi', 'dhule', 'madhya pradesh']","['bhiwandi', 'gutka', 'indore', 'madhya pradesh', 'maharashtra']",2.0,1.0,3.0
+71,Jacob_Thomas_vs_Food_Safety_Officer_Kuttiadi_Circle_on_18_March_2022.PDF,"['kerala', 'new delhi']",[],0.0,2.0,0.0
+72,Jagdish_Dhakad_vs_The_State_Of_Madhya_Pradesh_on_21_February_2022.PDF,"['madhya pradesh', 'morena']",['morena'],1.0,1.0,0.0
+73,Jagdish_Dhakad_vs_The_State_Of_Madhya_Pradesh_on_31_January_2022.PDF,"['madhya pradesh', 'morena']",[],0.0,2.0,0.0
+74,Jeevan_Patidar_vs_The_State_Of_Madhya_Pradesh_on_4_January_2022.PDF,"['agar malwa', 'madhya pradesh']","['agar', 'agar malwa', 'indore']",1.0,1.0,2.0
+75,Jmc_Projects_India_Ltd_Ors_vs_National_Highways_Authority_Of_India_on_4_February_2022.PDF,"['india', 'jammu and kashmir']","['ahmedabad', 'banihal', 'delhi', 'gujarat', 'india', 'j&k state', 'jammu & kashmir', 'jammu && kashmir', 'jammu and kashmir', 'ramban', 'state of jharkand', 'turkey', 'ukraine', 'ukrainian']",2.0,0.0,12.0
+76,Jyotirmayee_Rout_vs_State_Of_Odisha_Opp_Party_on_8_February_2022.PDF,"['cuttack', 'odisha']",['cuttack'],1.0,1.0,0.0
+77,Kadagala_Jagadish_vs_The_State_Of_A_P_on_24_March_2022.PDF,"['andhra pradesh', 'vizianagaram district']",['vizianagaram district'],1.0,1.0,0.0
+78,Kaiyyum_Shakir_Ansari_vs_State_Of_Maharashtra_on_17_February_2022.PDF,['raigad'],['raigad'],1.0,0.0,0.0
+79,Karukola_Simhachalam_vs_Union_Of_India_on_28_January_2022.PDF,"['andhra pradesh', 'new delhi', 'srikakulam district', 'uddanam']","['ah', 'allahabad', 'alma ata', 'ananthapuram', 'andhra', 'andhra pradesh', 'barua', 'beijing', 'bhore', 'borivanka village', 'britain', 'cairo', 'canada', 'china', 'copenhagen', 'east godavari', 'guntur', 'gunupalli', 'haripuram', 'hong', 'hong kong', 'ichapuram', 'india', 'india\x81s', 'itchapuram', 'itda', 'jaipur', 'kanchili', 'kanithivooru', 'kassibuga', 'kaviti', 'kavity', 'korei', 'machilipatnam', 'main veedhi', 'mandasa', 'mandla', 'mizoram', 'nagpur', 'nandigam mandal', 'new delhi', 'nicaragua', 'pachhikote', 'palasa', 'palasa manda', 'prakasam', 'seethampeta mandal', 'sompeta', 'southern indian state', 'sri lanka', 'srikakulam', 'srikakulam district', 'state of andhra pradesh', 'tekkali', 'tekkali mandal', 'u.s.a.', 'udanam', 'uddanam', 'uddanam area', 'uddhanam', 'v.kotturu', 'vajrapu kothuru mandal', 'vajrapu kottur mandal', 'vajrapukotturu', 'vims', 'visakhapatnam', 'west bengal', 'west godavari']",4.0,0.0,64.0
+80,Kenchanagoudra_vs_The_State_Of_Karnataka_on_17_March_2022.PDF,"['ballari', 'davanagere', 'hadagali', 'holalu village', 'karnataka']","['coma', 'davanagere', 'davangere', 'dhariwal', 'gooleppa', 'hadagali', 'hadagali taluk', 'haveri', 'hirehadagali', 'holalu', 'holalu village', 'hosapete', 'huvina hadagali', 'huvina-hadagali', 'ittagi', 'jhalawar', 'jhalawar town', 'kamaraj', 'kota', 'ranebennur']",3.0,2.0,17.0
+81,K_Kanniyappan_vs_Https___Www_Mhc_Tn_Gov_In_Judis_on_12_January_2022.PDF,"['madurai', 'tamilnadu']","['625', 'madurai']",1.0,1.0,1.0
+82,K_Kanniyappan_vs_The_Food_Safety_Officer_on_10_January_2022.PDF,"['madurai', 'tamil nadu']","['chikkandar savadi', 'madurai']",1.0,1.0,1.0
+83,K_N_Abdul_Gafoor_vs_The_State_Of_Kerala_on_3_January_2022.PDF,"['ernakulam', 'kerala', 'thrissur district']",[],0.0,3.0,0.0
+84,Lalit_Chandrakant_Madhavi_vs_The_State_Of_Maharashtra_on_8_March_2022.PDF,"['pandharpur', 'solapur']","['mamta kale', 'pandharpur', 'solapur', 'sugaon bhuse']",2.0,0.0,2.0
+85,Lellav_Kanak_Durga_Vsp_vs_Dist_Collecotr_Vsp_2_Ors_on_6_January_2022.PDF,"['sagar nagar', 'visakhapatnam rural', 'yendada village']","['crz', 'visakhapatnam rural', 'yendada village']",2.0,1.0,1.0
+86,Logfresh_Biotechnology_Pvt_Ltd_vs_The_State_Of_Telangana_on_19_January_2022.PDF,"['secunderabad', 'telangana']","['bengaluru', 'ethephon', 'indian', 'new delhi-110002', 'telangana']",1.0,1.0,4.0
+87,Madan_Lal_Agrawal_vs_State_Of_Chhattisgarh_on_23_February_2022.PDF,"['chhattisgarh', 'raigarh', 'surguja']","['ambikapur', 'c.g.', 'raigarh', 'sangamchauk', 'shrigarh', 'surguja']",2.0,1.0,4.0
+88,Mahesh_Garg_vs_Food_Safety_And_Standards_Authority_Of_on_7_February_2022.PDF,"['delhi', 'gwalior', 'indore', 'jabalpur', 'madhya pradesh', 'ujjain']","['anand', 'bhopal', 'central', 'gujrat', 'gwalior', 'india', 'indore', 'indore city', 'jabalpur', 'madhya pradesh', 'mahgawa', 'manoramaganj', 'mumbai', 'state of madhya pradesh', 'ujjain']",5.0,1.0,10.0
+89,Mangalagiri_Textiles_Mills_Private_vs_The_State_Bank_Of_India_on_18_February_2022.PDF,"['guntur district', 'hyderabad', 'mangalagiri']","['-', '500', 'andhra pradesh', 'chinakakani village', 'england', 'guntur', 'guntur district', 'hyderabad', 'india', 'mangalagiri mandal', 'u.p.', 'usa']",2.0,1.0,10.0
+90,Manikagoud_Shankargoud_Pogul_And_Anr_vs_State_Of_Maharashtra_on_24_January_2022.PDF,"['maharashtra', 'solapur']",[],0.0,2.0,0.0
+91,Md_Irshad_Ansari_vs_The_State_Of_Jharkhand_Opposite_on_21_January_2022.PDF,['jharkhand'],[],0.0,1.0,0.0
+92,Md_Mahbub_Alam_vs_The_State_Of_Assam_on_6_January_2022.PDF,"['assam', 'karimganj']","['assam', 'bazaricherra', 'karimganj', 'kathaltali']",2.0,0.0,2.0
+93,Messrs_Jet_Gateway_Express_Shipping_vs_Union_Of_India_on_25_February_2022.PDF,"['dubai', 'kualalampur', 'new delhi', 'united arab emirates']","['asian', 'dubai', 'india', 'jabel ali port', 'kuala', 'kualalampur', 'lumpur', 'malaysia', 'mundra', 'mundra port', 'new delhi', 'patparganj', 'united arab emirates']",4.0,0.0,9.0
+94,Mohd_Salim_Pir_Mohd_Sayani_vs_The_State_Of_Maharashtra_on_7_January_2022.PDF,"['maharashtra', 'yavatmal']",[],0.0,2.0,0.0
+95,Mondelez_India_Foods_Pvt_Ltd_vs_A_Elangovan_on_28_January_2022.PDF,"['chennai', 'mumbai', 'tamil nadu']","['600', 'chennai', 'chennai district', 'saidapet', 'tamil nadu']",2.0,1.0,3.0
+96,Monu_Thakur_vs_State_Of_U_P_on_4_March_2022.PDF,"['aligarh', 'hathras', 'u.p.']","['aligarh', 'hathras', 'india', 'mathura', 'republic of india']",2.0,1.0,3.0
+97,Mrs_S_Deb_Gupta_vs_Mr_Debalay_Bhattacharjee_on_3_January_2022.PDF,"['agartala', 'new delhi', 'tripura']","['agartala', 'government of tripura', 'new delhi-110002', 'tripura']",2.0,1.0,2.0
+98,Mukesh_Kumar_vs_The_State_Of_Bihar_Through_The_Director_on_9_February_2022.PDF,"['bihar', 'madhubani']","['bihar', 'madhubani', 'madhubani      ']",2.0,0.0,1.0
+99,M_Kaja_Mohindeen_vs_State_Rep_By_on_9_February_2022.PDF,"['chennai', 'thiruvallur']",['chennai'],1.0,1.0,0.0
+100,M_P_Paramesh_vs_The_Managing_Director_on_18_January_2022.PDF,"['bengaluru', 'dobbaspet', 'lakkur', 'madenahalli', 'nelamangala', 'sompura', 'yeshwanthpur']","['bangalore', 'bengaluru', 'dabaspet', 'dobaspet−', 'dobbaspet', 'dobbespet', 'koratagere', 'london', 'madenahalli village', 'nelamangala tq', 'pavagada', 'sompura hobli', 'yashwanthapura', 'yashwanthpur']",2.0,5.0,12.0
+101,M_Sowmiya_Sundari_vs_The_State_Of_Tamil_Nadu_on_18_March_2022.PDF,"['chennai', 'tamil nadu']","['600', 'ariyalur district', 'chennai', 'perambalur district', 'tamil nadu', 'thiruvarur dist', 'thiruvarur district']",2.0,0.0,5.0
+102,M_S_Beml_Limited_vs_M_S_Veer_Engineering_Works_on_3_January_2022.PDF,"['bengaluru', 'raipur', 'uttar pradesh']","['india', 'karnataka', 'raipur', 'rajhara', 'tarapore']",1.0,2.0,4.0
+103,M_S_Hindustan_Unilever_Limited_vs_The_State_Of_Ap_2_Others_on_22_February_2022.PDF,"['andhra pradesh', 'hyderabad', 'warangal']","['-', 'hanamkonda', 'hyderabad', 'warangal', 'warangal district']",2.0,1.0,3.0
+104,M_S_Itc_Limited_vs_Food_Safety_Inspector_on_23_February_2022.PDF,"['karnataka', 'vijayapura']","['412', 'belagavi -', 'belgaum', 'biradar', 'india', 'karnataka', 'new delhi-110', 'pune', 'ranjangoan', 'taluka shirur', 'united states', 'vijayapur', 'vijayapura']",2.0,0.0,11.0
+105,M_S_Narain_Dass_Bhagwan_Dass_vs_State_Of_J_K_on_31_January_2022.PDF,"['delhi', 'jammu']","['delhi', 'jammu', 'new delhi']",2.0,0.0,1.0
+106,M_S_Nutripure_Fods_Private_Limited_vs_Union_Of_India_on_10_February_2022.PDF,"['italy', 'mundra port']","['eu', 'european commission', 'european union', 'india', 'italy', 'mundra', 'new delhi', 'switzerland']",1.0,1.0,7.0
+107,M_S_Pernod_Ricard_India_Private_vs_Food_Safety_And_Standards_Authority_Of_on_28_February_2022.PDF,[],[],0.0,0.0,0.0
+108,M_S_Rangsugandh_Manufacturing_Pvt_vs_The_Assistant_Commissioner_Of_Customs_on_7_January_2022.PDF,"['chennai', 'karnataka', 'mysore']","['-', '600', 'chennai', 'india']",1.0,2.0,3.0
+109,M_S_Tej_Ram_Dharam_Paul_vs_The_Government_Of_Tamil_Nadu_on_19_January_2022.PDF,"['haryana', 'namakkal district', 'tamil nadu']","['nathpur', 'puducherry', 'sonepat', 'tamil nadu']",1.0,2.0,3.0
+110,M_S_Uniqeline_vs_The_Authorized_Officer_on_21_January_2022.PDF,['chennai'],"['600', 'chennai', 'rajaji salai']",1.0,0.0,2.0
+111,Nalin_Venkat_Kishore_Kumar_vs_Food_Safety_And_Standards_Authority_Of_on_19_January_2022.PDF,"['secunderabad', 'telangana']","['bengaluru', 'ethephon', 'indian', 'new delhi-110002', 'telangana']",1.0,1.0,4.0
+112,Narasus_Coffee_Company_vs_The_Food_Inspector_on_4_January_2022.PDF,"['salem', 'tiruppur']",['salem'],1.0,1.0,0.0
+113,Naresh_Mangilal_Choudhary_vs_State_Of_Maharashtra_on_1_March_2022.PDF,['raigad'],['mumbai'],0.0,1.0,1.0
+114,Nasir_Mohammedail_Yeligar_vs_The_State_Of_Maharashtra_on_24_January_2022.PDF,"['aurangabad', 'maharashtra']",['maharashtra'],1.0,1.0,0.0
+115,Nathani_Sivannarayana_vs_State_Of_A_P_on_7_January_2022.PDF,"['andhra pradesh', 'guntur urban district']",[],0.0,2.0,0.0
+116,National_Federation_Of_Farmers_vs_The_State_Of_Maharashtra_And_on_13_January_2022.PDF,"['maharashtra', 'nashik district']",['nashik district'],1.0,1.0,0.0
+117,Naushad_Idris_Khan_vs_State_Of_Maharashtra_And_Anr_on_8_March_2022.PDF,['maharashtra'],[],0.0,1.0,0.0
+118,Nichenametla_Subramanayam_vs_State_Of_Andhra_Pradesh_on_25_February_2022.PDF,"['andhra pradesh', 'koilakuntla', 'kurnool district']",[],0.0,3.0,0.0
+119,Nilesh_Harakchand_Lalwani_vs_The_State_Of_Maharashtra_on_4_February_2022.PDF,"['maharashtra', 'pune']","['aurangabad', 'mumbai', 'pune']",1.0,1.0,2.0
+120,Nkgsb_Cooperative_Bank_Limited_vs_Subir_Chakravarty_on_25_February_2022.PDF,"['bombay', 'chennai', 'delhi', 'goregaon (west)', 'kerala', 'maharashtra', 'mumbai']","['delhi', 'goregaon', 'india', 'jammu and kashmir', 'mumbai', 'new delhi', 'state of maharashtra']",2.0,5.0,5.0
+121,Nouratmal_Saini_S_O_Shri_Ramchandra_vs_State_Of_Rajasthan_on_5_March_2022.PDF,"['jaipur rural', 'rajasthan']",[],0.0,2.0,0.0
+122,N_Anandavel_vs_The_State_Rep_By_on_31_January_2022.PDF,"['kayathar', 'thoothukudi district', 'virudhunagar']","['kovilpatti', 'thoothukudi district']",1.0,2.0,1.0
+123,Onterumallikarjuna_vs_The_State_Of_Andhra_Pradesh_on_22_March_2022.PDF,"['andhra pradesh', 'badvel']",[],0.0,2.0,0.0
+124,Padmakar_Narhari_Tandulkar_vs_The_State_Of_Maharashtra_on_21_January_2022.PDF,"['maharashtra', 'pune']","['aurangabad', 'mumbai', 'rural', 'state of kerala']",0.0,2.0,4.0
+125,Page_No_1_13_vs_The_State_Of_Assam_And_6_Ors_on_30_March_2022.PDF,"['arunachal pradesh', 'assam', 'dibrugarh district', 'dirang', 'khonsa', 'sonitpur']","['arunachal pradesh', 'arunachcal pradesh', 'assam', 'dibrugarh', 'dibrugarh sadar', 'dirang', 'government of assam', 'itanagar', 'khonsa', 'state of arunachal pradesh', 'state of gujarat', 'tirap district']",4.0,2.0,8.0
+126,Page_No_1_4_vs_The_State_Of_Assam_And_9_Ors_on_18_January_2022.PDF,"['assam', 'guwahati', 'new delhi']","['assam', 'bamunimaidan', 'guwahati']",2.0,1.0,1.0
+127,Pawan_Aggarwal_vs_Delhi_Administration_Food_Inspector_on_9_March_2022.PDF,"['delhi', 'new delhi']","['delhi', 'new delhi-', 'new delhi-110062', 'sangam vihar', 'state of rajasthan', 'tehkhand village']",1.0,1.0,5.0
+128,Pepsico_India_Holdings_Private_Limited_vs_The_State_Of_Kerala_on_3_February_2022.PDF,"['ernakulam', 'gurugram', 'kerala']",['edapally'],0.0,3.0,1.0
+129,Pikani_Bai_vs_The_Managing_Director_on_22_March_2022.PDF,"['bengaluru', 'chitradurga', 'hiriyur']",[],0.0,3.0,0.0
+130,Poonam_Sethi_vs_Sanjay_Sethi_on_7_January_2022.PDF,"['london', 'new delhi']","['apollo munich', 'dubai', 'gurgaon', 'gurudwara', 'india', 'london', 'long island', 'manali', 'new delhi', 'new delhi-110015', 'new york', 'sainik farm', 'uae', 'us', 'usa']",2.0,0.0,13.0
+131,Potta_Suresh_vs_The_State_Of_Andhra_Pradesh_on_22_March_2022.PDF,"['andhra pradesh', 'vizianagaram district']",[],0.0,2.0,0.0
+132,Pradeep_And_5_Ors_vs_Mt_Gp_Asphalt_1_Imo_No_9120891_on_23_March_2022.PDF,['bombay'],"['india', 'kanchan p dhuri', 'mumbai']",0.0,1.0,3.0
+133,Pradip_Sahoo_vs_State_Of_Odisha_Opp_Party_on_24_January_2022.PDF,"['cuttack', 'odisha']",[],0.0,2.0,0.0
+134,Pravin_Prakash_Kadam_vs_State_Of_Maharashtra_on_28_February_2022.PDF,"['maharashtra', 'solapur city']","['aurangabad', 'mumbai']",0.0,2.0,2.0
+135,Pritam_Kumar_Mittal_And_Ors_vs_Saurabh_Tanwar_And_Anr_Judgement_Dt_on_29_January_2022.PDF,"['delhi', 'paschim vihar', 'pitampura', 'rohini']","['delhi', 'keshav puram zone', 'new delhi', 'north dmc', 'pitam pura', 'pitampur', 'vaishali']",1.0,3.0,6.0
+136,Pupil_Tree_Foundation_vs_Pearson_India_Education_Services_on_4_January_2022.PDF,"['bellari', 'bengaluru city']","['australia', 'bellary', 'india']",0.0,2.0,3.0
+137,P_Hemachandra_vs_The_State_Of_Andhra_Pradesh_on_23_February_2022.PDF,"['andhra pradesh', 'chittoor district']",[],0.0,2.0,0.0
+138,P_Panneer_Selvam_M___42_Years_vs_Thiru_P_Jaganathan_on_19_January_2022.PDF,"['ayodhiyapattinam block', 'salem district']",['salem district-636'],0.0,2.0,1.0
+139,Radhey_Shyam_Sharma_vs_The_State_Of_Madhya_Pradesh_on_4_January_2022.PDF,"['bhopal', 'madhya pradesh', 'morena']",[],0.0,3.0,0.0
+140,Rahul_Kumar_vs_The_State_Of_Bihar_Through_Principal_on_9_February_2022.PDF,"['bihar', 'gaya']","['bihar', 'gaya', 'india']",2.0,0.0,1.0
+141,Rajaram_Madhukar_Khade_vs_The_State_Of_Maharashtra_on_28_January_2022.PDF,"['maharashtra', 'pune']",[],0.0,2.0,0.0
+142,Rajeev_Kumar_Jain_vs_The_State_Of_Madhya_Pradesh_on_23_February_2022.PDF,"['ashoknagar', 'gwalior', 'madhya pradesh']","['ashoknagar', 'ghosi mohalla']",1.0,2.0,1.0
+143,Rajendra_Laxman_Salunke_vs_The_State_Of_Maharashtra_on_15_February_2022.PDF,[],[],0.0,0.0,0.0
+144,Rajesh_Kumar_vs_Union_Of_India_Ors_on_18_February_2022.PDF,[],['india'],0.0,0.0,1.0
+145,Raju_Mahto_Raju_Kumar_vs_The_State_Of_Jharkhand_Opposite_on_7_February_2022.PDF,['jharkhand'],[],0.0,1.0,0.0
+146,Ramehar_vs_State_Of_Punjab_on_1_February_2022.PDF,"['chandigarh', 'punjab', 'sas nagar']",[],0.0,3.0,0.0
+147,Ram_Gaua_Raksha_Dal_vs_Union_Of_India_Ors_on_2_March_2022.PDF,['new delhi'],['new delhi'],1.0,0.0,0.0
+148,Ravichandran_vs_State_Rep_By_on_15_February_2022.PDF,"['kancheepuram', 'tamilnadu']",['kancheepuram'],1.0,1.0,0.0
+149,Rounak_Sinha_vs_State_Of_Bihar_on_25_March_2022.PDF,"['bihar', 'bohjpur', 'patna']",['bihar'],1.0,2.0,0.0
+150,Royal_Exports_Enterprises_vs_Union_Of_India_on_11_January_2022.PDF,"['chennai', 'ernakulam', 'new delhi', 'vallarpadam']","['india', 'vallarpadam', 'vallrpadam']",1.0,3.0,2.0
+151,Sahil_vs_State_Of_Punjab_on_4_February_2022.PDF,"['chandigarh', 'punjab', 's. a. s. nagar']",[],0.0,3.0,0.0
+152,Sailesh_Venkatesan_vs_Unknown_on_28_February_2022.PDF,"['alipore', 'south 24-parganas']",['alipore'],1.0,1.0,0.0
+153,Salman_Abdul_Sheikh_vs_The_State_Of_Maharashtra_Thr_Kalmana_on_1_March_2022.PDF,"['maharashtra', 'nagpur']",[],0.0,2.0,0.0
+154,Sampat_Bhagwan_Nanawanre_vs_The_State_Of_Maharashtra_on_9_February_2022.PDF,"['baramati', 'maharashtra', 'pune rural']",[],0.0,3.0,0.0
+155,Sanjeev_Kumar_vs_State_Of_Punjab_on_1_February_2022.PDF,"['chandigarh', 'punjab', 'sas nagar']",[],0.0,3.0,0.0
+156,Santosh_Vishnu_Relekar_vs_The_State_Of_Maharashtra_on_21_February_2022.PDF,['maharashtra'],['solapur'],0.0,1.0,1.0
+157,Sapna_Gehlot_W_O_Devendra_Singh_Gehlot_vs_State_Of_Gujarat_on_27_January_2022.PDF,"['ahmedabad', 'india', 'new zealand']","['ahmedabad', 'america', 'auckland', 'aukland', 'bangalore', 'chandigarh', 'chennai', 'delhi', 'england', 'england and wales', 'india', 'indian', 'jodhpur', 'london', 'manju', 'mehsana', 'mittal', 'nagpur', 'nagput', 'new zealand', 'new- zealand', 'new-zealand', 'norfolk', 'pune', 'republic of india', 'state of gujarat', 'uk', 'united states of america', 'us', 'usa', 'wales', 'walmart', 'washington', 'watford', 'zealand']",3.0,0.0,32.0
+158,Sarfrazaddin_Mohammad_Yunus_Shaikh_vs_The_State_Of_Maharashtra_on_8_February_2022.PDF,"['bizapur', 'maharashtra', 'nipani', 'phursungi', 'pune']","['aurangabad', 'bizapur', 'mumbai', 'nipani', 'phursungi', 'pune']",4.0,1.0,2.0
+160,Shaikh_Gaffar_Shaikh_Makdum_And_Another_vs_The_State_Of_Maharashtra_on_11_January_2022.PDF,"['maharashtra', 'parbhani']","['maharashtra', 'parbhani']",1.0,2.0,0.0
+161,Shaikh_Gaffar_Shaikh_Makdum_And_Another_vs_The_State_Of_Maharashtra_on_9_February_2022.PDF,"['district-parbhani', 'gangakhed', 'maharashtra']",['maharashtra'],0.0,2.0,1.0
+162,Shankar_Govind_Gadewar_vs_The_State_Of_Maharashtra_on_14_March_2022.PDF,"['maharashtra', 'nanded']",['district nanded'],0.0,2.0,0.0
+163,Shankar_Govind_Gadewar_vs_The_State_Of_Maharashtra_on_24_February_2022.PDF,"['maharashtra', 'nanded']",[],0.0,2.0,0.0
+164,Sharabu_Gopi_Srinivasa_Rao_vs_State_Of_Andhra_Pradesh_on_21_January_2022.PDF,"['andhra pradesh', 'guntur district']",[],0.0,2.0,0.0
+165,Sheikh_Salim_Sheikh_Gafur_And_Another_vs_State_Of_Mah_Thr_Pso_Ps_Parwa_on_5_January_2022.PDF,"['maharashtra', 'yavatmal']",[],0.0,5.0,7.0
+166,Shiva_Kumar_vs_The_State_Of_Karnataka_on_28_February_2022.PDF,"['bengaluru', 'chitradurga town', 'hubli-dharwad district', 'karnataka', 'mysore district']","['aurangabad', 'mumbai', 'patil', 'pune', 'rural', 'solapur', 'state of maharashtra']",0.0,2.0,0.0
+167,Shivraj_Irappa_Chinchol_vs_The_State_Of_Maharashtra_on_24_March_2022.PDF,"['maharashtra', 'solapur']",[],0.0,1.0,7.0
+168,Shri_Nikhil_Shah_S_O_Shri_Krishnakant_vs_State_Of_Rajasthan_on_27_January_2022.PDF,['rajasthan'],"['bhatnagar', 'delhi', 'ghaziabad', 'loni', 'new delhi', 'pitampura', 'uttar pradesh']",1.0,1.0,2.0
+169,Sh_Ram_Avtar_Injured_vs_Shivam_Driver_Of_The_Offending_on_2_March_2022.PDF,"['delhi', 'uttar pradesh']","['bengaluru', 'delhi', 'tamil nadu']",0.0,2.0,5.0
+170,Smt_C_Kavitha_vs_Sri_Sivanesan_P_on_19_March_2022.PDF,"['bengaluru', 'tamil nadu']","['delhi', 'delhi-32', 'ncr', 'pathankot', 'shahdara']",0.0,2.0,4.0
+171,Smt_Nipun_Kochhar_vs_Sh_Balkishan_on_25_February_2022.PDF,"['delhi', 'shahdara']","['chennai', 'namakkal district', 'new delhi', 'salem district']",0.0,4.0,2.0
+172,Sri_Balamurugan_Sago_Industries_vs_Food_Safety_And_Standards_Authority_Of_on_3_January_2022.PDF,"['chennai', 'namakkal district', 'new delhi', 'salem district']","['andhra pradesh', 'chittoor district']",0.0,4.0,0.0
+173,Sri_K_Gangadhar_vs_Sri_K_Raghupathi_on_23_March_2022.PDF,"['andhra pradesh', 'bengaluru', 'chittoor district', 'haryana']",[],0.0,3.0,0.0
+174,Sri_Venkata_Raghava_Surendra_Muvvala_vs_The_State_Of_Andhra_Pradesh_on_7_February_2022.PDF,"['andhra pradesh', 'guntur district', 'prakasam district']",[],0.0,3.0,1.0
+175,State_Of_Gujarat_On_Behalf_Of_Amratbhai_vs_Ramsinh_Durgsinh_Rajpurohit_on_9_March_2022.PDF,"['gandevi', 'gujarat', 'navsari']",['state of gujarat'],0.0,2.0,1.0
+176,State_Of_Gujarat_On_Behalf_Of_Hiren_vs_Dilip_Dulabhai_Thavani_on_10_March_2022.PDF,"['gujarat', 'junagadh']",['jammu'],0.0,1.0,0.0
+177,Suresh_Chand_Gard_And_Others_vs_Anil_Gupta_And_Others_on_14_March_2022.PDF,['jammu'],[],0.0,1.0,1.0
+178,Suryadevara_Nageswara_Rao_vs_The_State_Of_Andhra_Pradesh_on_3_February_2022.PDF,['andhra pradesh'],['ulhasnagar'],0.0,2.0,6.0
+179,Sushant_Sunil_Singh_vs_State_Of_Maharashtra_on_1_March_2022.PDF,"['thane', 'ulhasnagar']","['haridwar', 'hauz khas', 'meerut', 'new delhi-', 'uttarakhand', 'yusuf sarai']",0.0,4.0,0.0
+180,Swami_Muktanand_Anr_vs_State_Of_Nct_Of_Delhi_on_21_March_2022.PDF,"['haridwar', 'meerut', 'new delhi', 'uttarakhand']",[],0.0,2.0,1.0
+181,Swami_Muktanand_vs_State_Of_Nct_Of_Delhi_on_31_January_2022.PDF,"['delhi', 'new delhi']",['district sehore'],0.0,3.0,0.0
+183,Tamraj_Kachawa_vs_The_State_Of_Madhya_Pradesh_on_10_January_2022.PDF,"['ashta', 'district sehore', 'madhya pradesh']",[],0.0,2.0,2.0
+184,Thafseel_P_S_vs_State_Of_Kerala_on_10_March_2022.PDF,"['aluva municipality', 'ernakulam', 'kerala', 'thiruvananthapuram']","['anganwadi', 'bihar', 'bihar village', 'government of bihar', 'greater kailash', 'india', 'jharkhand', 'meerut', 'nct delhi', 'new delhi', 'odisha', 'patna', 'patna-', 'patna-4', 'saidpur', 'secunderabad', 'state of', 'union territories', 'united states', 'uttar pradesh', 'uttarakhand']",0.0,3.0,3.0
+185,Thanga_Turai_Raju_vs_The_State_Of_Andhra_Pradesh_on_22_March_2022.PDF,"['andhra pradesh', 'vizianagaram district']","['jogipet', 'medak district']",0.0,3.0,12.0
+186,The_Bihar_Offset_Printers_Association_vs_The_Union_Of_India_on_25_March_2022.PDF,"['bihar', 'new delhi', 'patna']","['india', 'kanchan p dhuri', 'mumbai']",0.0,0.0,8.0
+187,The_Food_Inspector_Medak_District_vs_Sri_V_Prabhakar_S_O_V_Ramulu_on_6_January_2022.PDF,"['jogipet', 'medak district', 'telangana']","['bangalore-', 'bihar', 'kopakala', 'lucknow', 'madhubani', 'madhubani town', 'madhubani-', 'mysore', 'naubatpur', 'pandaul', 'patna', 'u.b. city']",0.0,5.0,10.0
+188,The_Swedish_Club_vs_V8_Pool_Inc_And_3_Ors_on_23_March_2022.PDF,[],"['bangalore', 'bihar', 'indira nagar dist.-', 'kopakala', 'mysore', 'naubatpur', 'patna', 'u.b.']",0.0,4.0,0.0
+189,United_Breweries_Limited_A_Registered_vs_The_State_Of_Bihar_Through_The_Principal_on_9_February_2022.PDF,"['bangalore', 'bihar', 'lucknow', 'madhubani', 'patna']","['germany', 'harsoda', 'heidelberg', 'india', 'indian', 'maharashtra', 'malkapur-kurha', 'mumbai', 'state of maharashtra', 'tamil nadu']",0.0,2.0,1.0
+190,United_Breweries_Limited_vs_The_State_Of_Bihar_Thorugh_The_Principal_on_9_February_2022.PDF,"['bihar', 'lucknow', 'madhubani', 'patna']",[],0.0,2.0,3.0
+191,Vijaysing_Dnyaneshwar_Gotya_S_O_vs_State_Of_Mha_Thr_Officer_In_Charge_Of_Ps_on_13_January_2022.PDF,"['maharashtra', 'mumbai']",['jabalpur'],0.0,2.0,44.0
+192,Viky_Vikash_Ku_Agrawal_vs_State_Of_Odisha_Opp_Party_on_9_February_2022.PDF,"['kantabanji', 'odisha']","['coimbatore', 'coimbatore district', 'telungupalayam']",0.0,1.0,0.0
+193,Vishnu_Gupta_Lalla_vs_The_State_Of_Madhya_Pradesh_on_3_January_2022.PDF,"['jabalpur', 'madhya pradesh']","['america', 'assam', 'assam, ulubari', 'bhagalpur', 'chandigarh', 'dehangi', 'dima hasao', 'dimadao', 'dimadao village', 'dimadao wapo village', 'dimadao wapu', 'dimadao wapu village', 'england', 'gaonburah', 'goanburah', 'gunjung', 'guwahati', 'haflong', 'india', 'kobak post', 'kolkata', 'madras', 'michidui', 'n.c. hills', 'nc hills', 'new sangbar', 'sanbar', 'sangbar', 'sangbar forest', 'sangbar village', 'sontilla', 'state of haryana', 'state of manipur', 'state of orissa', 'state of tripura', 'vidhyawati', 'wari lamphu', 'wari lampu', 'wari lampu village', 'warilampu', 'warilampu village', 'warilangpo', 'warilangpo village', 'yallapa']",0.0,3.0,0.0
+194,V_Balakrishnan_vs_The_State_Represented_By_on_1_February_2022.PDF,['coimbatore'],,0.0,0.0,0.0
+195,WP_C__4368_2014_on_25_March_2022.PDF,"['assam', 'dima hasao', 'new delhi']",,0.0,0.0,0.0
+159,,,,2.0,0.0,0.0
+182,,,,0.0,4.0,21.0

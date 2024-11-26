@@ -1,0 +1,13 @@
+question_id,question
+1.1,What food product was involved in this case?
+1.2,What type of food product is discussed in this case?
+1.3,Which food item is central to this case?
+2.1,"Is the petitioner an individual, a governmental body, or an organization?"
+2.2,"What classification best describes the petitioner: a person, an organization, or a government entity?"
+2.3,"What kind of entity is the petitioner—an organization, an individual, or the government?"
+3.1,"Is the petitioner an individual, a governmental body, or an organization?"
+3.2,"What classification best describes the petitioner: a person, an organization, or a government entity?"
+3.3,"What kind of entity is the petitioner—an organization, an individual, or the government?"
+4.1,What offense was associated with the food item?
+4.2,What unlawful act was committed involving the food item?
+4.3,What crime was committed in relation to the food item?

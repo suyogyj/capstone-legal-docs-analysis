@@ -1,0 +1,197 @@
+,file_name,gpt extracted petitioners,ner extracted petitioners,true_positives,false_positives,false_negatives
+0,Abhijeet_Suryakant_Maske_And_Anr_vs_The_State_Of_Maharashtra_on_1_March_2022.PDF,"['abhijeet suryakant maske', 'dilip ramchandra maske']",['abhijeet suryakant maske'],1.0,1.0,0.0
+1,Amluya_Anand_vs_State_on_8_March_2022.PDF,['amluya anand'],['amluya anand'],1.0,0.0,0.0
+2,Arulmurugan_Starch_Industries_vs_Food_Safety_And_Standards_Authority_Of_on_19_January_2022.PDF,['arulmurugan starch industries'],"['2018arulmurugan starch industries', 'arulmurugan starch industries']",1.0,0.0,1.0
+3,Arun_Raosaheb_Khot_vs_State_Of_Maharashtra_on_31_January_2022.PDF,['arun raosaheb khot'],"['arun raosaheb khot', 'sneha\nnitin', 'sneha chavan']",1.0,0.0,2.0
+4,Asha_Singh_vs_The_State_Of_Bihar_on_24_March_2022.PDF,['asha singh'],['asha singh'],1.0,0.0,0.0
+5,Avinash_Balkrishna_Bhamre_vs_State_Of_Maharashtra_on_8_March_2022.PDF,['avinash balkrishna bhamre'],"['4avinash balkrishna bhamre', 'avinash balkrishna bhamre']",1.0,0.0,1.0
+6,Ayesha_Hajeera_Almas_vs_Chief_Secretary_on_15_March_2022.PDF,"['ayesha hajeera almas', 'dr vinod g kulkarni', 'ghanshyam upadhyay', 'miss aishat shifa', 'miss shaheena', 'miss shifa minaz', 'miss thairin begam', 'ms asleena haniya', 'ms zunaira amber', 'smt resham']","['aliya assadi', 'ayesha hajeera almas', 'ghanshyam upadhyay', 'hajeera almas', 'raghupathi bhat', 'resham', 'reshma', 'rudrappa', 'rudre gowda', 'shubhashini', 'udupi district-576230', 'vinod g. kulkarni', 'vinod kulkarni']",2.0,8.0,11.0
+7,A_R_Starch_Products_vs_The_Commissioner_Of_Food_Safety_on_3_January_2022.PDF,['a.r.starch products'],"['a.r.starch products', 'designated officer, (namakkal)\n                       tamil nadu food safety and drug administration department,\n                       collectorate complex,\n                       thiruchengode road,\n                       namakkal – 637 003', 'food safety officer,\n                       tamil nadu food safety and drug administration department,\n                       senthamangalam block,\n                       namakkal district.\n                     5.chief executive officer,\n                       fssai, 03rd & 04th floor,\n                       fda bhawan, kotla road,\n                       new delhi.                                              ... respondents\n                     prayer :']",1.0,0.0,2.0
+8,Badam_Sampath_Kumar_vs_State_Of_Odisha_Opp_Party_on_8_February_2022.PDF,['badam sampath kumar @ sampat badam @ reddy'],"['badam sampath kumar', 'judgebadam sampath kumar', 'sampat badam @ reddy']",0.0,1.0,3.0
+9,Baswaraj_Vishwanath_Agre_vs_The_State_Of_Maharashtra_on_3_March_2022.PDF,['baswaraj vishwanath agre'],['baswaraj vishwanath agre'],1.0,0.0,0.0
+10,Bharat_Sukhdev_Dhobale_vs_The_State_Of_Maharashtra_on_21_February_2022.PDF,['bharat sukhdev dhobale'],"['3bharat sukhdev dhobale', 'bharat sukhdev dhobale', 'n.s. kamble', 'sukhdev dhobale']",1.0,0.0,3.0
+11,Bijaya_Kumar_Kamani_vs_State_Of_Odisha_Opposite_Party_on_1_February_2022.PDF,['bijaya kumar kamani'],['bijaya kumar kamani'],1.0,0.0,0.0
+12,Binod_Kumar_Agrawal_vs_State_Of_Odisha_Opp_Party_on_9_February_2022.PDF,['binod kumar agrawal'],['binod kumar agrawal'],1.0,0.0,0.0
+13,Bose_Mathew_vs_The_State_Of_Kerala_on_4_March_2022.PDF,['bose mathew'],"['2bose mathew', 'bose mathew']",1.0,0.0,1.0
+14,Burra_Lingaiah_Yadav_vs_The_State_Of_Telangana_And_3_Others_on_10_February_2022.PDF,['burra lingaiah yadav'],['burra lingaiah yadav'],1.0,0.0,0.0
+15,B_Ramesh_vs_State_Of_Odisha_Opposite_Party_on_4_February_2022.PDF,['b.ramesh'],"['//b.ramesh', 'b.ramesh']",1.0,0.0,1.0
+16,Chintalagunta_Gopi_vs_The_State_Of_Andhra_Pradesh_on_7_January_2022.PDF,['chintalagunta gopi'],[],0.0,1.0,0.0
+17,Code_Of_Criminal_Procedure_vs_Unknown_on_4_January_2022.PDF,[],[],0.0,0.0,0.0
+18,CRLP_1377_2022_on_9_March_2022.PDF,[],[],0.0,0.0,0.0
+19,CRLP_1440_2020_on_6_January_2022.PDF,[],[],0.0,0.0,0.0
+20,CRLP_1598_2022_on_9_March_2022.PDF,[],[],0.0,0.0,0.0
+21,CRLP_1669_2022_on_10_March_2022.PDF,[],[],0.0,0.0,0.0
+22,CRLP_1671_2022_on_10_March_2022.PDF,['d. ramesh'],[],0.0,1.0,0.0
+23,CRLP_1717_2022_on_10_March_2022.PDF,[],[],0.0,0.0,0.0
+24,CRLP_1720_2022_on_10_March_2022.PDF,['petitioner'],[],0.0,1.0,0.0
+25,CRLP_1759_2022_on_11_March_2022.PDF,[],[],0.0,0.0,0.0
+26,CRLP_1760_2022_on_11_March_2022.PDF,[],[],0.0,0.0,0.0
+27,CRLP_282_2022_on_27_January_2022.PDF,[],[],0.0,0.0,0.0
+28,CRLP_3708_2021_on_6_January_2022.PDF,[],[],0.0,0.0,0.0
+29,CRLP_3866_2021_on_6_January_2022.PDF,[],[],0.0,0.0,0.0
+30,CRLP_4494_2021_on_6_January_2022.PDF,[],[],0.0,0.0,0.0
+31,CRLP_4698_2021_on_6_January_2022.PDF,[],[],0.0,0.0,0.0
+32,CRLP_4749_2021_on_6_January_2022.PDF,[],[],0.0,0.0,0.0
+33,CRLP_490_2022_on_8_February_2022.PDF,[],[],0.0,0.0,0.0
+34,CRLP_5156_2019_on_6_January_2022.PDF,[],[],0.0,0.0,0.0
+35,CRLP_5163_2019_on_6_January_2022.PDF,[],[],0.0,0.0,0.0
+36,CRLP_5641_2021_on_6_January_2022.PDF,[],[],0.0,0.0,0.0
+37,CRLP_6833_2021_on_6_January_2022.PDF,[],[],0.0,0.0,0.0
+38,CRLP_6838_2021_on_6_January_2022.PDF,[],[],0.0,0.0,0.0
+39,CRLP_6843_2021_on_6_January_2022.PDF,[],[],0.0,0.0,0.0
+40,CRLP_6849_2021_on_6_January_2022.PDF,[],[],0.0,0.0,0.0
+41,CRLP_808_2022_on_16_February_2022.PDF,[],[],0.0,0.0,0.0
+42,CRLP_848_2022_on_16_February_2022.PDF,[],[],0.0,0.0,0.0
+43,CRLP_852_2022_on_16_February_2022.PDF,[],[],0.0,0.0,0.0
+44,Cr_Cases_7164_2019_on_3_February_2022.PDF,"['food safety officer, department of food safety, govt of nct of delhi']","['food safety officer', 'food safety officer\ndepartment of food safety\ngovt of nct of delhi\n8th floor, mayur bhawan\nconnaught place, new delhi']",0.0,1.0,2.0
+45,Dabur_India_Ltd_vs_Shiv_G_Shetti_Ors_on_23_March_2022.PDF,['dabur india ltd'],"['dabur india ltd', 'sanjeev narula']",1.0,0.0,1.0
+46,Deepa_Naresh_Bhavnani_vs_State_Of_Maharashtra_on_24_January_2022.PDF,['deepa naresh bhavnani'],"['4deepa naresh bhavnani', 'deepa naresh bhavnani', 'naresh bhavnani', 'pradipkumar prakashrao prakashrao deshmane deshmane']",1.0,0.0,3.0
+47,Delhi_Golf_Club_Employees_Union_vs_Union_Of_India_on_24_February_2022.PDF,['delhi golf club employees union'],"['delhi golf club employees union', 'vipin sanghi']",1.0,0.0,1.0
+48,Dharampal_Satyapal_Ltd_vs_The_State_Of_Maharashtra_And_3_Ors_on_30_March_2022.PDF,['dharampal satyapal ltd.'],"['dharampal satyapal ltd', 'dharampal satyapal ltd.', 'state of assadharampal satyapal ltd']",1.0,0.0,2.0
+49,Dharmendra_Ghanshayamdas_Hasani_vs_The_State_Of_Maharashtra_on_9_March_2022.PDF,['dharmendra ghanshayamdas hasani'],['dharmendra ghanshayamdas hasani'],1.0,0.0,0.0
+50,Dilip_Kumar_Yadav_vs_The_State_Of_Bihar_on_3_February_2022.PDF,['dilip kumar yadav'],['dilip kumar yadav'],1.0,0.0,0.0
+51,Dilip_Saha_vs_The_State_Of_Assam_on_10_March_2022.PDF,['dilip saha'],['dilip saha'],1.0,0.0,0.0
+52,Dillip_Kumar_Das_Anr_vs_State_Of_Odisha_Opposite_Party_on_21_February_2022.PDF,"['anr', 'dillip kumar das']",['dillip kumar das'],1.0,1.0,0.0
+53,Dr_Krishna_Ram_H_vs_The_Chief_Secretary_To_Government_on_30_March_2022.PDF,['dr. krishna ram h'],"['krishna ram', 'registrardr krishna ram', 'tahsildar\n      turuvekere taluk', 'tahsildardr krishna ram']",0.0,1.0,4.0
+54,Dwarampudi_Sivarama_Reddy_vs_The_State_Of_Andhra_Pradesh_on_5_January_2022.PDF,['dwarampudi sivarama reddy'],[],0.0,1.0,0.0
+55,Fardin_Moinddin_Shaikh_vs_State_Of_Maharashtra_on_3_January_2022.PDF,['fardin moinddin shaikh'],['fardin moinddin shaikh'],1.0,0.0,0.0
+56,Galactus_Funware_Technology_Private_vs_State_Of_Karnatka_on_14_February_2022.PDF,"['federation of indian fantasy sports', 'galactus funware technology private limited', 'gameskraft technologies private limited', 'head digital works private limited', 'junglee games india private limited', 'mr anwar shirpurwala', 'pacific gaming private limited', 'play games 24x7 private limited', 'pool n club', 'pramod kumar k', 'pratab rajagopal', 'ravikiran e', 'saroj kumar panigrahi', 'shri pavan nanda', 'shubham malhotra']","['advocategalactus funware technology private', 'all india gaming federation', 'anwar shirpurwala', 'archit narayana', 'deepak singh ahlawat', 'federation of indian fantasy sports (fifs)\n   innov8, regal building, 69,\n   connaught place,\n   new delhi 110001, india', 'federation of indian fantasy sports,\n   having office at\n   innov8, regal building, 69,\n   connaught place,\n   new delhi 110001, india', 'galactus funware technology private', 'galactus funware technology private limited', 'gameskraft technologies private limited', 'head digital works private limited', 'junglee games india private limited', 'p n v s siva prasad', 'pacific gaming private limited', 'pavan nanda', 'play games 24x7 private limited', 'pool n club\nno.15, basement,\ncunnigham road,\nbengaluru-560 052', 'pramod kumar k', 'pratab rajagopal', 'ravikiran e', 'saroj kumar panigrahi']",10.0,5.0,11.0
+57,Ghanshyambhai_Dahyabhai_Patel_vs_State_Of_Gujarat_on_3_March_2022.PDF,['ghanshyambhai dahyabhai patel'],['ghanshyambhai dahyabhai patel'],1.0,0.0,0.0
+58,Goldripe_International_Pvt_Ltd_vs_The_State_Of_Telangana_on_19_January_2022.PDF,['goldripe international pvt. ltd'],['goldripe international pvt. ltd'],1.0,0.0,0.0
+59,Gonugunta_Venkata_Suresh_vs_The_State_Of_Andhra_Pradesh_on_18_January_2022.PDF,['gonugunta venkata suresh'],[],0.0,1.0,0.0
+60,Gyanaduttachouhan_vs_The_Additional_Chief_Secretary_To_on_23_March_2022.PDF,['gyanadutta chouhan'],['gyanaduttachouhan'],0.0,1.0,1.0
+61,G_Sudheeshkumar_vs_State_Of_Kerala_on_15_February_2022.PDF,['g.sudheeshkumar'],"['2g.sudheeshkumar', 'g.sudheeshkumar']",1.0,0.0,1.0
+62,Haldiram_Bhujiawala_Limited_vs_The_State_Of_Jharkhand_Others_on_9_February_2022.PDF,['haldiram bhujiawala limited'],"['haldiram bhujiawala limited', 'kailash prasad deo']",1.0,0.0,1.0
+63,High_Court_On_Its_Own_Motion_In_The_vs_Bhiwandi_Nizampur_Municipal_on_26_February_2022.PDF,['high court on its own motion (in the matter of jilani building at bhiwandi)'],"['7maharashtra slum', 'legislation provisions public penal provisions for authority non-compliance entrusted']",0.0,1.0,2.0
+64,Imran_Shamshad_Ansari_vs_The_State_Of_Maharashtra_on_25_January_2022.PDF,['imran shamshad ansari'],"['imran shamshad ansari', 'sneha\nnitin\nchavan', 'sneha chavan']",1.0,0.0,2.0
+65,Indian_Oil_Corporation_Limited_And_vs_All_Haryana_Petroleum_Dealers_on_10_January_2022.PDF,"['indian oil corporation', 'indian oil corporation limited']",['indian oil corporation limited'],1.0,1.0,0.0
+66,Indian_Oil_Corporation_Limited_And_vs_All_India_Petroleum_Dealers_on_10_January_2022.PDF,"['indian oil corporation', 'indian oil corporation limited']",['indian oil corporation limited'],1.0,1.0,0.0
+67,Indian_Oil_Corporation_Limited_And_vs_Bihar_Petroleum_Dealers_Association_on_10_January_2022.PDF,"['indian oil corporation limited', 'others']",['indian oil corporation limited'],1.0,1.0,0.0
+68,In_Re_Children_In_Street_Situations_vs_This_Writ_Petition_Has_Been_Filed_For_The_on_1_February_2022.PDF,['in re children in street situations'],[],0.0,1.0,0.0
+69,In_The_Impugned_Award_It_Is_To_Be_Noted_vs_No_1_Has_Not_Challenged_The_Rejection_Of_on_3_January_2022.PDF,['m/s kmb estates llp'],[],0.0,1.0,0.0
+70,Israr_Mansoori_Mustaq_Mansoori_vs_The_State_Of_Maharashtra_on_10_February_2022.PDF,['israr mansoori mustaq mansoori'],['israr mansoori mustaq mansoori'],1.0,0.0,0.0
+71,Jacob_Thomas_vs_Food_Safety_Officer_Kuttiadi_Circle_on_18_March_2022.PDF,"['anil kumar', 'jacob thomas', 'm/s intergrow brands (p) ltd.', 'synthite industries pvt ltd spices division']",['jacob thomas'],1.0,3.0,0.0
+72,Jagdish_Dhakad_vs_The_State_Of_Madhya_Pradesh_on_21_February_2022.PDF,['jagdish dhakad'],['jagdish dhakad'],1.0,0.0,0.0
+73,Jagdish_Dhakad_vs_The_State_Of_Madhya_Pradesh_on_31_January_2022.PDF,['jagdish dhakad'],['jagdish dhakad'],1.0,0.0,0.0
+74,Jeevan_Patidar_vs_The_State_Of_Madhya_Pradesh_on_4_January_2022.PDF,['jeevan patidar'],['jeevan patidar'],1.0,0.0,0.0
+75,Jmc_Projects_India_Ltd_Ors_vs_National_Highways_Authority_Of_India_on_4_February_2022.PDF,"['age insaat ve ticaret anonim sirketi', 'jmc projects (india) ltd.']","['age insaat ve ticaret anonim sirketi', 'jmc projects (india) ltd.', 'jv']",2.0,0.0,1.0
+76,Jyotirmayee_Rout_vs_State_Of_Odisha_Opp_Party_on_8_February_2022.PDF,['jyotirmayee rout'],['jyotirmayee rout'],1.0,0.0,0.0
+77,Kadagala_Jagadish_vs_The_State_Of_A_P_on_24_March_2022.PDF,['kadagala jagadish'],['kadagala jagadish'],1.0,0.0,0.0
+78,Kaiyyum_Shakir_Ansari_vs_State_Of_Maharashtra_on_17_February_2022.PDF,['kaiyyum shakir ansari'],['kaiyyum shakir ansari'],1.0,0.0,0.0
+79,Karukola_Simhachalam_vs_Union_Of_India_on_28_January_2022.PDF,"['annepu mahandhata', 'karukola simhachalam']","['karukola simhachalam', 'kaviti', 'simhachalam karukola']",1.0,1.0,2.0
+80,Kenchanagoudra_vs_The_State_Of_Karnataka_on_17_March_2022.PDF,"['girish s/o kenchanagoudra basappa', 'kantesh s/o kenchanagoudra basappa', 'kariyappa s/o virupakshappa', 'kenchanagoudra basavarajappa @ basappa', 'ramesh s/o virupakshappa', 'rudrappa s/o virupakshappa']","['2kenchanagoudra', 'andkenchanagoudra', 'betal singh', 'girish', 'kantesh', 'kariyappa', 'kenchanagoudra', 'ramesh', 'rudrappa']",0.0,6.0,9.0
+81,K_Kanniyappan_vs_Https___Www_Mhc_Tn_Gov_In_Judis_on_12_January_2022.PDF,"['chakra drugs (p) ltd.', 'k.kanniyappan', 's.l.sethu madhava', 's.vasumathi']","['4k.kanniyappan', 'chakra drugs (p) ltd.', 'food safety officer,\n                     madurai corporation (code no.579)', 'k.kanniyappan', 'kanniyappan']",2.0,2.0,3.0
+82,K_Kanniyappan_vs_The_Food_Safety_Officer_on_10_January_2022.PDF,"['chakra drugs (p) ltd.', 'k.kanniyappan', 's.l.sethu madhava', 's.vasumathi']","['4k.kanniyappan', 'k.kanniyappan', 'kanniyappan']",1.0,3.0,2.0
+83,K_N_Abdul_Gafoor_vs_The_State_Of_Kerala_on_3_January_2022.PDF,['k.n.abdul gafoor'],"['k.haripal', 'k.n.abdul gafoor']",1.0,0.0,1.0
+84,Lalit_Chandrakant_Madhavi_vs_The_State_Of_Maharashtra_on_8_March_2022.PDF,['lalit chandrakant madhavi'],['lalit chandrakant madhavi'],1.0,0.0,0.0
+85,Lellav_Kanak_Durga_Vsp_vs_Dist_Collecotr_Vsp_2_Ors_on_6_January_2022.PDF,['lellav kanak durga'],['lellav kanak durga'],1.0,0.0,0.0
+86,Logfresh_Biotechnology_Pvt_Ltd_vs_The_State_Of_Telangana_on_19_January_2022.PDF,['logfresh biotechnology pvt. ltd.'],['logfresh biotechnology pvt. ltd.'],1.0,0.0,0.0
+87,Madan_Lal_Agrawal_vs_State_Of_Chhattisgarh_on_23_February_2022.PDF,"['harsh kumar goyal', 'madan lal agrawal', 'subhash chand goyal']",['madan lal agrawal'],1.0,2.0,0.0
+88,Mahesh_Garg_vs_Food_Safety_And_Standards_Authority_Of_on_7_February_2022.PDF,['mahesh garg'],"['mahesh   garg', 'mahesh garg']",1.0,0.0,1.0
+89,Mangalagiri_Textiles_Mills_Private_vs_The_State_Bank_Of_India_on_18_February_2022.PDF,"['dr. goli nagasaina rao', 'm/s. mangalagiri textile mills private limited']","['goli nagasaina rao', 'mangalagiri textile mills private limited', 'mangalagiri textiles mills private']",0.0,2.0,3.0
+90,Manikagoud_Shankargoud_Pogul_And_Anr_vs_State_Of_Maharashtra_on_24_January_2022.PDF,"['anr', 'manikagoud shankargoud pogul']","['manikagoud shankargoud pogul', 'manikgoud shankargoud pogul', 'sneha\nnitin']",1.0,1.0,2.0
+91,Md_Irshad_Ansari_vs_The_State_Of_Jharkhand_Opposite_on_21_January_2022.PDF,['md. irshad ansari'],"['anil kumar choudhary', 'md. irshad ansari']",1.0,0.0,1.0
+92,Md_Mahbub_Alam_vs_The_State_Of_Assam_on_6_January_2022.PDF,['md. mahbub alam'],"['mahbub alam', 'md. mahbub alam']",1.0,0.0,1.0
+93,Messrs_Jet_Gateway_Express_Shipping_vs_Union_Of_India_on_25_February_2022.PDF,['messrs jet gateway express shipping'],"['jet', 'jet gateway express shipping']",0.0,1.0,2.0
+94,Mohd_Salim_Pir_Mohd_Sayani_vs_The_State_Of_Maharashtra_on_7_January_2022.PDF,['mohd. salim pir mohd. sayani'],['mohd. salim pir mohd. sayani'],1.0,0.0,0.0
+95,Mondelez_India_Foods_Pvt_Ltd_vs_A_Elangovan_on_28_January_2022.PDF,"['arlette noronha', 'mondelez india foods pvt. ltd.']","['arlette noronha', 'mondelez india foods pvt. ltd']",1.0,1.0,1.0
+96,Monu_Thakur_vs_State_Of_U_P_on_4_March_2022.PDF,['monu thakur'],['monu thakur'],1.0,0.0,0.0
+97,Mrs_S_Deb_Gupta_vs_Mr_Debalay_Bhattacharjee_on_3_January_2022.PDF,"['mr. bikram paul', 'mrs. s. deb (gupta)']",[],0.0,2.0,0.0
+98,Mukesh_Kumar_vs_The_State_Of_Bihar_Through_The_Director_on_9_February_2022.PDF,['mukesh kumar'],['mukesh kumar'],1.0,0.0,0.0
+99,M_Kaja_Mohindeen_vs_State_Rep_By_on_9_February_2022.PDF,['m.kaja mohindeen'],"['m.kaja', 'm.kaja mohindeen']",1.0,0.0,1.0
+100,M_P_Paramesh_vs_The_Managing_Director_on_18_January_2022.PDF,['m.p.paramesh'],"['m.p.paramesh', 'r.mahesha']",1.0,0.0,1.0
+101,M_Sowmiya_Sundari_vs_The_State_Of_Tamil_Nadu_on_18_March_2022.PDF,['m.sowmiya sundari'],"['m.sowmiya sundari', 'm.sowmiya sundari                                     ']",1.0,0.0,1.0
+102,M_S_Beml_Limited_vs_M_S_Veer_Engineering_Works_on_3_January_2022.PDF,['m/s.beml limited'],"['beml limited', 's.beml limited']",0.0,1.0,2.0
+103,M_S_Hindustan_Unilever_Limited_vs_The_State_Of_Ap_2_Others_on_22_February_2022.PDF,['m/s. hindustan unilever limited'],['hindustan unilever limited'],0.0,1.0,1.0
+104,M_S_Itc_Limited_vs_Food_Safety_Inspector_on_23_February_2022.PDF,['sri iqbal syed sab dafedhar'],"['iqbal syed sab dafedhar', 'itc limited']",0.0,1.0,2.0
+105,M_S_Narain_Dass_Bhagwan_Dass_vs_State_Of_J_K_on_31_January_2022.PDF,['m/s narain dass bhagwan dass'],"['narain dass bhagwan dass', 'tarun kumar kochar']",0.0,1.0,2.0
+106,M_S_Nutripure_Fods_Private_Limited_vs_Union_Of_India_on_10_February_2022.PDF,"['dharmesh gordhandas ratanghayra', 'm/s nutripure fods private limited']",['nutripure fods private limited'],0.0,2.0,1.0
+107,M_S_Pernod_Ricard_India_Private_vs_Food_Safety_And_Standards_Authority_Of_on_28_February_2022.PDF,"['anr', 'pernod ricard india pvt ltd']","['arun', 'pernod ricard india pvt ltd', 's.pernod ricard india private']",1.0,1.0,2.0
+108,M_S_Rangsugandh_Manufacturing_Pvt_vs_The_Assistant_Commissioner_Of_Customs_on_7_January_2022.PDF,['m/s.rangsugandh manufacturing pvt. ltd.'],['s.rangsugandh manufacturing'],0.0,1.0,1.0
+109,M_S_Tej_Ram_Dharam_Paul_vs_The_Government_Of_Tamil_Nadu_on_19_January_2022.PDF,['m/s.tej ram dharam paul'],['s.tej ram dharam paul'],0.0,1.0,1.0
+110,M_S_Uniqeline_vs_The_Authorized_Officer_on_21_January_2022.PDF,['m/s.uniqeline'],['s.uniqeline'],0.0,1.0,1.0
+111,Nalin_Venkat_Kishore_Kumar_vs_Food_Safety_And_Standards_Authority_Of_on_19_January_2022.PDF,['nalin venkat kishore kumar'],[],0.0,1.0,0.0
+112,Narasus_Coffee_Company_vs_The_Food_Inspector_on_4_January_2022.PDF,['narasus coffee company'],['narasus coffee company'],1.0,0.0,0.0
+113,Naresh_Mangilal_Choudhary_vs_State_Of_Maharashtra_on_1_March_2022.PDF,['naresh mangilal choudhary'],"['3naresh mangilal choudhary', 'naresh mangilal choudhary', 'sneha chavan']",1.0,0.0,2.0
+114,Nasir_Mohammedail_Yeligar_vs_The_State_Of_Maharashtra_on_24_January_2022.PDF,['nasir mohammedail yeligar'],"['04nasir mohammedail yeligar', 'mohammedail yeligar', 'nasir mohammedail yeligar']",1.0,0.0,2.0
+115,Nathani_Sivannarayana_vs_State_Of_A_P_on_7_January_2022.PDF,['nathani sivannarayana'],[],0.0,1.0,0.0
+116,National_Federation_Of_Farmers_vs_The_State_Of_Maharashtra_And_on_13_January_2022.PDF,['national federation of farmers procurement and retailing co-operative of india ltd'],"['ashwini', 'national federation of farmers', 'national federation of farmers procurement', 'retailing co-operative of india ltd']",0.0,1.0,4.0
+117,Naushad_Idris_Khan_vs_State_Of_Maharashtra_And_Anr_on_8_March_2022.PDF,['naushad idris khan'],['naushad idris khan'],1.0,0.0,0.0
+118,Nichenametla_Subramanayam_vs_State_Of_Andhra_Pradesh_on_25_February_2022.PDF,['nichenametla subramanayam'],[],0.0,1.0,0.0
+119,Nilesh_Harakchand_Lalwani_vs_The_State_Of_Maharashtra_on_4_February_2022.PDF,['nilesh harakchand lalwani'],"['3nilesh harakchand lalwani', 'nilesh harakchand lalwani', 'sneha', 'sneha chavan']",1.0,0.0,3.0
+120,Nkgsb_Cooperative_Bank_Limited_vs_Subir_Chakravarty_on_25_February_2022.PDF,['nkgsb cooperative bank limited'],"['2020nkgsb cooperative bank limited', 'nkgsb cooperative bank limited']",1.0,0.0,1.0
+121,Nouratmal_Saini_S_O_Shri_Ramchandra_vs_State_Of_Rajasthan_on_5_March_2022.PDF,['nouratmal saini s/o shri ramchandra saini'],['nouratmal saini'],0.0,1.0,1.0
+122,N_Anandavel_vs_The_State_Rep_By_on_31_January_2022.PDF,"['m/s.vel mart, production/packing and wholesale company', 'n.anandavel', 'p.poorani']","['1.n.anandavel', '2021n.anandavel', 'n.anandavel']",1.0,2.0,2.0
+123,Onterumallikarjuna_vs_The_State_Of_Andhra_Pradesh_on_22_March_2022.PDF,['onterumallikarjuna'],[],0.0,1.0,0.0
+124,Padmakar_Narhari_Tandulkar_vs_The_State_Of_Maharashtra_on_21_January_2022.PDF,['padmakar narhari tandulkar'],"['2022padmakar narhari tandulkar', 'padmakar narhari tandulkar']",1.0,0.0,1.0
+125,Page_No_1_13_vs_The_State_Of_Assam_And_6_Ors_on_30_March_2022.PDF,"['m/s. norphel winery', 'shri purna bahadur gurung']","['norphel winery', 'purna bahadur gurung']",0.0,2.0,2.0
+126,Page_No_1_4_vs_The_State_Of_Assam_And_9_Ors_on_18_January_2022.PDF,"['dipanjal sonowal', 'raju singha', 'sambhu singha']","['dipanjal sonowal', 'sambhu singha']",2.0,1.0,0.0
+127,Pawan_Aggarwal_vs_Delhi_Administration_Food_Inspector_on_9_March_2022.PDF,['pawan aggarwal'],['pawan aggarwal'],1.0,0.0,0.0
+128,Pepsico_India_Holdings_Private_Limited_vs_The_State_Of_Kerala_on_3_February_2022.PDF,['pepsico india holdings private limited'],['pepsico india holdings private limited'],1.0,0.0,0.0
+129,Pikani_Bai_vs_The_Managing_Director_on_22_March_2022.PDF,['pikani bai'],['pikani bai'],1.0,0.0,0.0
+130,Poonam_Sethi_vs_Sanjay_Sethi_on_7_January_2022.PDF,['poonam sethi'],['poonam sethi'],1.0,0.0,0.0
+131,Potta_Suresh_vs_The_State_Of_Andhra_Pradesh_on_22_March_2022.PDF,['potta suresh'],['potta suresh'],1.0,0.0,0.0
+132,Pradeep_And_5_Ors_vs_Mt_Gp_Asphalt_1_Imo_No_9120891_on_23_March_2022.PDF,"['pradeep', 'swedish club']","['kanchan p dhuri', 'pradeep', 'swedish club']",2.0,0.0,1.0
+133,Pradip_Sahoo_vs_State_Of_Odisha_Opp_Party_on_24_January_2022.PDF,['pradip sahoo'],['pradip sahoo'],1.0,0.0,0.0
+134,Pravin_Prakash_Kadam_vs_State_Of_Maharashtra_on_28_February_2022.PDF,['pravin prakash kadam'],"['prakash kadam', 'pravin prakash kadam']",1.0,0.0,1.0
+135,Pritam_Kumar_Mittal_And_Ors_vs_Saurabh_Tanwar_And_Anr_Judgement_Dt_on_29_January_2022.PDF,"['ajay kumar mittal', 'pritam kumar mittal', 'smt. surekha mittal']","['ajay kumar mittal', 'pritam kumar mittal', 'surekha mittal']",2.0,1.0,1.0
+136,Pupil_Tree_Foundation_vs_Pearson_India_Education_Services_on_4_January_2022.PDF,"['mr. prabhu jahagirdar', 'mrs. sucharita sriram jahagirdar', 'pupil tree foundation']","['advocate)pupil tree foundation', 'prabhu jahagirdar', 'pupil tree foundation', 'sucharita sriram jahagirdar']",1.0,2.0,3.0
+137,P_Hemachandra_vs_The_State_Of_Andhra_Pradesh_on_23_February_2022.PDF,['p. hemachandra'],[],0.0,1.0,0.0
+138,P_Panneer_Selvam_M___42_Years_vs_Thiru_P_Jaganathan_on_19_January_2022.PDF,"['m/s.svs classic foods', 'p.panneer selvam', 'v.anbazhagan']",['p.panneer selvam'],1.0,2.0,0.0
+139,Radhey_Shyam_Sharma_vs_The_State_Of_Madhya_Pradesh_on_4_January_2022.PDF,['radhey shyam sharma'],['radhey shyam sharma'],1.0,0.0,0.0
+140,Rahul_Kumar_vs_The_State_Of_Bihar_Through_Principal_on_9_February_2022.PDF,['rahul kumar'],"['rahul kumar', 'thisrahul kumar']",1.0,0.0,1.0
+141,Rajaram_Madhukar_Khade_vs_The_State_Of_Maharashtra_on_28_January_2022.PDF,['rajaram madhukar khade'],"['rajaram madhukar khade', 'sneha\nnitin\nchavan']",1.0,0.0,1.0
+142,Rajeev_Kumar_Jain_vs_The_State_Of_Madhya_Pradesh_on_23_February_2022.PDF,['rajeev kumar jain'],"[""+05'30'rajeev kumar jain"", 'rajeev kumar', 'rajeev kumar jain', 'ravi kaushal']",1.0,0.0,3.0
+143,Rajendra_Laxman_Salunke_vs_The_State_Of_Maharashtra_on_15_February_2022.PDF,['rajendra laxman salunke'],['rajendra laxman salunke'],1.0,0.0,0.0
+144,Rajesh_Kumar_vs_Union_Of_India_Ors_on_18_February_2022.PDF,"['ms. priyanka rai', 'pawan kumar', 'rajesh kumar']","['pawan kumar', 'rajesh kumar']",2.0,1.0,0.0
+145,Raju_Mahto_Raju_Kumar_vs_The_State_Of_Jharkhand_Opposite_on_7_February_2022.PDF,['raju mahto @ raju kumar'],['raju mahto @ raju kumar'],1.0,0.0,0.0
+146,Ramehar_vs_State_Of_Punjab_on_1_February_2022.PDF,['ramehar'],['ramehar'],1.0,0.0,0.0
+147,Ram_Gaua_Raksha_Dal_vs_Union_Of_India_Ors_on_2_March_2022.PDF,['ram gaua raksha dal'],['ram gaua raksha dal'],1.0,0.0,0.0
+148,Ravichandran_vs_State_Rep_By_on_15_February_2022.PDF,"['dillibabu', 'ravichandran', 'sanjaikumar agarwal']",['ravichandran'],1.0,2.0,0.0
+149,Rounak_Sinha_vs_State_Of_Bihar_on_25_March_2022.PDF,['rounak sinha'],['rounak sinha'],1.0,0.0,0.0
+150,Royal_Exports_Enterprises_vs_Union_Of_India_on_11_January_2022.PDF,['royal exports enterprises'],['royal exports enterprises'],1.0,0.0,0.0
+151,Sahil_vs_State_Of_Punjab_on_4_February_2022.PDF,['sahil'],['sahil'],1.0,0.0,0.0
+152,Sailesh_Venkatesan_vs_Unknown_on_28_February_2022.PDF,['sailesh venkatesan'],['sailesh venkatesan'],1.0,0.0,0.0
+153,Salman_Abdul_Sheikh_vs_The_State_Of_Maharashtra_Thr_Kalmana_on_1_March_2022.PDF,"['mohd. yasin s/o mohd. ilyas ansari', 'salman abdul sheikh']",['salman abdul sheikh'],1.0,1.0,0.0
+154,Sampat_Bhagwan_Nanawanre_vs_The_State_Of_Maharashtra_on_9_February_2022.PDF,['sampat bhagwan nanawanre'],"['sampat bhagwan nanawanre', 'sampat bhagwan nanaware']",1.0,0.0,1.0
+155,Sanjeev_Kumar_vs_State_Of_Punjab_on_1_February_2022.PDF,['sanjeev kumar'],"['sanjeev', 'sanjeev kumar']",1.0,0.0,1.0
+156,Santosh_Vishnu_Relekar_vs_The_State_Of_Maharashtra_on_21_February_2022.PDF,['santosh vishnu relekar'],"['c.v. bhadang', 'guthka', 'panmasala', 'santosh vishnu relekar']",1.0,0.0,3.0
+157,Sapna_Gehlot_W_O_Devendra_Singh_Gehlot_vs_State_Of_Gujarat_on_27_January_2022.PDF,['sapna gehlot w/o devendra singh gehlot'],"['k.a. singh', 'sapna gehlot', 'thesapna gehlot', 'upsapna gehlot']",0.0,1.0,4.0
+158,Sarfrazaddin_Mohammad_Yunus_Shaikh_vs_The_State_Of_Maharashtra_on_8_February_2022.PDF,['sarfrazaddin mohammad yunus shaikh'],"['ghutka', 'masala', 'sarfrazaddin mohammad yunus shaikh']",1.0,0.0,2.0
+160,Shaikh_Gaffar_Shaikh_Makdum_And_Another_vs_The_State_Of_Maharashtra_on_11_January_2022.PDF,"['ferozkhan s/o wahabkhan pathan', 'shaikh gaffar shaikh makdum']","['ferozkhan', 'gaffar', 'shaikh', 'shaikh gaffar', 'shaikh gaffar shaikh makdum']",0.0,2.0,2.0
+161,Shaikh_Gaffar_Shaikh_Makdum_And_Another_vs_The_State_Of_Maharashtra_on_9_February_2022.PDF,"['ferozkhan s/o wahabkhan pathan', 'shaikh gaffar s/o shaikh makdum']","['shankar', 'shankar govind gadewar']",0.0,1.0,1.0
+162,Shankar_Govind_Gadewar_vs_The_State_Of_Maharashtra_on_14_March_2022.PDF,['shankar s/o govind gadewar'],['shankar govind gadewar'],0.0,1.0,0.0
+163,Shankar_Govind_Gadewar_vs_The_State_Of_Maharashtra_on_24_February_2022.PDF,['shankar govind gadewar'],[],0.0,1.0,3.0
+164,Sharabu_Gopi_Srinivasa_Rao_vs_State_Of_Andhra_Pradesh_on_21_January_2022.PDF,['sharabu gopi srinivasa rao'],"['sheikh mahebub', 'sheikh salim', 'sheikh salim sheikh gafur']",0.0,2.0,3.0
+165,Sheikh_Salim_Sheikh_Gafur_And_Another_vs_State_Of_Mah_Thr_Pso_Ps_Parwa_on_5_January_2022.PDF,"['sheikh mahebub', 'sheikh salim sheikh gafur']","['2shiva kumar', 'h.n. sathish', 'shiva kumar']",0.0,2.0,3.0
+166,Shiva_Kumar_vs_The_State_Of_Karnataka_on_28_February_2022.PDF,"['h.n. sathish', 'shiva kumar']","['andshivraj irappa chinchol', 'shivraj chinchol', 'shivraj irappa chinchol']",0.0,1.0,1.0
+167,Shivraj_Irappa_Chinchol_vs_The_State_Of_Maharashtra_on_24_March_2022.PDF,['shivraj irappa chinchol'],['nikhil shah'],0.0,1.0,2.0
+168,Shri_Nikhil_Shah_S_O_Shri_Krishnakant_vs_State_Of_Rajasthan_on_27_January_2022.PDF,['shri nikhil shah s/o shri krishnakant shah and ors.'],"['ram avtar', 'ramavatar sharma']",0.0,1.0,2.0
+169,Sh_Ram_Avtar_Injured_vs_Shivam_Driver_Of_The_Offending_on_2_March_2022.PDF,['sh. ram avtar (injured)'],"['c.kavitha', 'yajath s']",0.0,2.0,1.0
+170,Smt_C_Kavitha_vs_Sri_Sivanesan_P_on_19_March_2022.PDF,"['master yajath s', 'smt.c.kavitha']",['nipun kochhar'],0.0,1.0,1.0
+171,Smt_Nipun_Kochhar_vs_Sh_Balkishan_on_25_February_2022.PDF,['smt. nipun kochhar'],['balamurugan sago industries'],0.0,1.0,2.0
+172,Sri_Balamurugan_Sago_Industries_vs_Food_Safety_And_Standards_Authority_Of_on_3_January_2022.PDF,['sri balamurugan sago industries'],"['k gangadhar', 'k.gangadhar']",0.0,1.0,0.0
+173,Sri_K_Gangadhar_vs_Sri_K_Raghupathi_on_23_March_2022.PDF,['sri k. gangadhar'],[],0.0,1.0,0.0
+174,Sri_Venkata_Raghava_Surendra_Muvvala_vs_The_State_Of_Andhra_Pradesh_on_7_February_2022.PDF,['sri venkata raghava surendra muvvala'],[],0.0,1.0,1.0
+175,State_Of_Gujarat_On_Behalf_Of_Amratbhai_vs_Ramsinh_Durgsinh_Rajpurohit_on_9_March_2022.PDF,['state of gujarat on behalf of amratbhai govindbhai patel'],['state of gujarat on behalf of hiren govindbhai vadukar'],0.0,1.0,1.0
+176,State_Of_Gujarat_On_Behalf_Of_Hiren_vs_Dilip_Dulabhai_Thavani_on_10_March_2022.PDF,['state of gujarat on behalf of hiren govindbhai vadukar'],['suresh chand gard'],0.0,1.0,0.0
+177,Suresh_Chand_Gard_And_Others_vs_Anil_Gupta_And_Others_on_14_March_2022.PDF,['suresh chand gard and others'],[],0.0,1.0,1.0
+178,Suryadevara_Nageswara_Rao_vs_The_State_Of_Andhra_Pradesh_on_3_February_2022.PDF,['suryadevara nageswara rao'],['sushant sunil singh'],0.0,1.0,1.0
+179,Sushant_Sunil_Singh_vs_State_Of_Maharashtra_on_1_March_2022.PDF,['sushant sunil singh'],['swami muktanand'],1.0,1.0,0.0
+180,Swami_Muktanand_Anr_vs_State_Of_Nct_Of_Delhi_on_21_March_2022.PDF,"['anr.', 'swami muktanand']",['swami muktanand'],0.0,1.0,0.0
+181,Swami_Muktanand_vs_State_Of_Nct_Of_Delhi_on_31_January_2022.PDF,['swami muktanand'],[],0.0,1.0,1.0
+183,Tamraj_Kachawa_vs_The_State_Of_Madhya_Pradesh_on_10_January_2022.PDF,['tamraj kachawa'],['thanga turai raju'],0.0,1.0,3.0
+184,Thafseel_P_S_vs_State_Of_Kerala_on_10_March_2022.PDF,['thafseel.p.s'],"['bihar offset printers association', 'dhanaraj printing press', 'new ratan priya', 'p.k.p./amrendra', 'patna offset press', 'puja printech pvt. ltd', 'sunil']",0.0,5.0,2.0
+185,Thanga_Turai_Raju_vs_The_State_Of_Andhra_Pradesh_on_22_March_2022.PDF,['thanga turai raju'],"['food inspector, medak\ndistrict', 'food inspector, medak district', 'v.prabhakar']",0.0,1.0,3.0
+186,The_Bihar_Offset_Printers_Association_vs_The_Union_Of_India_on_25_March_2022.PDF,"['dhanaraj printing press', 'm/s patna offset press', 'm/s puja printech pvt. ltd.', 'new ratan priya', 'the bihar offset printers association']","['kanchan p dhuri', 'pradeep']",0.0,2.0,2.0
+187,The_Food_Inspector_Medak_District_vs_Sri_V_Prabhakar_S_O_V_Ramulu_on_6_January_2022.PDF,"['the food inspector, medak district']","['breweries limited', 'cr', 'united breweries limited']",0.0,2.0,2.0
+188,The_Swedish_Club_vs_V8_Pool_Inc_And_3_Ors_on_23_March_2022.PDF,"['pradeep and others', 'the swedish club']","['breweries limited', 'united breweries limited']",0.0,1.0,1.0
+189,United_Breweries_Limited_A_Registered_vs_The_State_Of_Bihar_Through_The_Principal_on_9_February_2022.PDF,"['mukesh kumar', 'united breweries limited']","['vijaysing @ dnyaneshwar @ gotya', 'vijaysingh @ dnyaneshwar @ gotya raghunandan pawar']",0.0,1.0,1.0
+190,United_Breweries_Limited_vs_The_State_Of_Bihar_Thorugh_The_Principal_on_9_February_2022.PDF,['united breweries limited'],['viky @ vikash ku agrawal'],0.0,1.0,1.0
+191,Vijaysing_Dnyaneshwar_Gotya_S_O_vs_State_Of_Mha_Thr_Officer_In_Charge_Of_Ps_on_13_January_2022.PDF,['vijaysing @ dnyaneshwar @ gotya raghunandan pawar'],['vishnu gupta @ lalla'],0.0,1.0,7.0
+192,Viky_Vikash_Ku_Agrawal_vs_State_Of_Odisha_Opp_Party_on_9_February_2022.PDF,['viky @ vikash ku agrawal'],['v.balakrishnan'],0.0,1.0,0.0
+193,Vishnu_Gupta_Lalla_vs_The_State_Of_Madhya_Pradesh_on_3_January_2022.PDF,['vishnu gupta @ lalla'],"['golom nunisa', 'kombo nunisa', 'konto warisa', 'n. kotiswar singh', 'poresh warisa', 'rohtash kumar', 'sopola nunisa']",0.0,3.0,0.0
+194,V_Balakrishnan_vs_The_State_Represented_By_on_1_February_2022.PDF,['v.balakrishnan'],,0.0,0.0,0.0
+195,WP_C__4368_2014_on_25_March_2022.PDF,"['smt. sopola nunisa', 'sri kombo nunisa', 'sri konto warisa']",,0.0,0.0,0.0
+159,,,,1.0,1.0,4.0
+182,,,,0.0,1.0,7.0
