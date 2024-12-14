@@ -2,6 +2,8 @@
 
 This project explores the integration of Large Language Models (LLMs) and Knowledge Graphs to enhance legal text analytics, focusing on food safety-related cases in India (2022–2023). The methodology and results demonstrate how these techniques can automate summarization, entity extraction, and corpus-level analysis of legal texts.
 
+The full report can be found in [Capstone_Report.pdf](https://github.com/suyogyj/capstone-legal-docs-analysis/blob/main/Capstone_Report.pdf)
+
 ---
 
 ## Table of Contents
@@ -28,10 +30,6 @@ This project explores the integration of Large Language Models (LLMs) and Knowle
 ## Dataset
 
 A corpus of 196 Indian court cases on food safety was collected, filtered, and preprocessed. Minimal preprocessing was applied to retain document integrity.
-
-## Literature Review
-
-Explores traditional NLP approaches for legal analytics and the shift towards LLMs for tasks like entity extraction and summarization. Discusses challenges and benefits of combining LLMs with Knowledge Graphs for structured, cross-document analysis.
 
 ## Methodology
 
