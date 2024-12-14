@@ -44,6 +44,9 @@ A corpus of 196 Indian court cases on food safety was collected, filtered, and p
 - **Summarization**: Generated concise, accurate document summaries using GPT-4o-mini.
 - **Knowledge Graph Construction**: Populated and queried a Neo4j graph database to identify patterns and trends.
 
+![full_KG](https://github.com/user-attachments/assets/844e0b91-6b10-4012-bf54-440b21c1f47c)
+
+
 ## Results
 
 - **LLM Performance**:
