@@ -20,7 +20,7 @@ The full report can be found in [Capstone_Report.pdf](https://github.com/suyogyj
 
 ## Introduction
 
-- **Background**: Legal text analysis is complex, requiring tools to handle large corpora efficiently. LLMs can extract and summarize legal entities but lack corpus-wide context, addressed by combining them with Knowledge Graphs.
+- **Background**: Legal text analysis is complex, requiring tools to handle large corpora efficiently. LLMs can summarize and extract entities from documents but lack corpus-wide context. This limitation is addressed by using the LLMs to populate Knowledge Graphs representing the corpus.
 - **Objectives**:
   - Automated summarization of legal documents.
   - Extraction of key legal entities like statutes, provisions, and case participants.
