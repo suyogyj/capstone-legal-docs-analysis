@@ -1,0 +1,29 @@
+// Calculate Jaccard similarity and find the top 10 most similar pairs of cases
+MATCH (c1:Case)-[:CITES_PROV]->(sec:Section)<-[:CITES_PROV]-(c2:Case)
+WHERE id(c1) < id(c2)
+WITH c1, c2, collect(sec) AS sharedProvisions, count(sec) AS intersectionSize
+MATCH (c1)-[:CITES_PROV]->(sec1:Section)
+WITH c1, c2, sharedProvisions, intersectionSize, count(sec1) AS c1Size
+MATCH (c2)-[:CITES_PROV]->(sec2:Section)
+WITH c1, c2, sharedProvisions, intersectionSize, c1Size, count(sec2) AS c2Size
+WITH c1, c2, sharedProvisions, intersectionSize, c1Size, c2Size,
+     (intersectionSize * 1.0) / (c1Size + c2Size - intersectionSize) AS jaccardSimilarity
+ORDER BY jaccardSimilarity DESC
+LIMIT 10
+WITH c1, c2, jaccardSimilarity, sharedProvisions
+// Return the cases, their similarity, and the associated statutes and sections
+MATCH (c1)-[:CITES_PROV]->(sec1:Section)-[:PART_OF]->(stat1:Statute)
+MATCH (c2)-[:CITES_PROV]->(sec2:Section)-[:PART_OF]->(stat2:Statute)
+RETURN c1, c2, jaccardSimilarity, collect(DISTINCT sec1) AS Sections1, collect(DISTINCT stat1) AS Statutes1, collect(DISTINCT sec2) AS Sections2, collect(DISTINCT stat2) AS Statutes2
+
+
+
+//most cited statutes
+MATCH (p:Case)-[:CITES_STATUTE]->(stat:Statute)
+RETURN stat.name AS Statute, COUNT(p) AS CitationCount
+UNION
+MATCH (p:Case)-[:CITES_PROV]->(sec:Section)-[:PART_OF]->(stat:Statute)
+RETURN stat.name AS Statute, COUNT(p) AS CitationCount
+ORDER BY CitationCount DESC
+LIMIT 10
+
