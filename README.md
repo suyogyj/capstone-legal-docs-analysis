@@ -1,69 +1,65 @@
-# Capstone Project (Monsoon 2024) - Legal Document Analysis using LLMs and Knowledge Graphs
-This repository contains code and the dataset for my fourth-year Capstone Project.
+# Capstone Project: Legal Text Analytics with Large Language Models
 
-- [Capstone Project (Monsoon 2024) - Legal Document Analysis using LLMs and Knowledge Graphs](#capstone-project-monsoon-2024---legal-document-analysis-using-llms-and-knowledge-graphs)
-    - [Problem Statement](#problem-statement)
-    - [Dataset](#dataset)
-    - [Methodology](#methodology)
-    - [Knowledge Graph Design](#knowledge-graph-design)
+This project explores the integration of Large Language Models (LLMs) and Knowledge Graphs to enhance legal text analytics, focusing on food safety-related cases in India (2022–2023). The methodology and results demonstrate how these techniques can automate summarization, entity extraction, and corpus-level analysis of legal texts.
 
+The full report can be found in [Capstone_Report.pdf](https://github.com/suyogyj/capstone-legal-docs-analysis/blob/main/Capstone_Report.pdf).
 
-### Problem Statement
-Legal documents are complex in nature, and analysing vast amounts of such documents
-is a time-consuming task. Extracting insights (such as common statutes cited, similarity
-between cases, etc) from a large corpus of legal documents is challenging to do by hand
-due to the size and complexity of the corpus. LLMs are able to read and answer questions
-from both singular documents and large collections of documents using techniques such
-as Retrieval-Augmented Generation. However, they are not able to analyse and answer
-questions about the datasets themselves. For example, an LLM will not be able to provide
-counts of the statutes cited within the documents, the similarity between multiple cases
-based on the cases/statutes/provisions cited within them, or provide statistics about the
-outcomes of certain types of cases. One solution for handling this analysis is the use of
-Knowledge Graphs representing the legal ontology. The problems to solve, then, are:
-1. Summarization of individual documents, for further extraction and user reference,
-2. The extraction of entities (laws/provisions cited, appellant and respondent names,
-precedents used, the decision along with reasoning, etc.),
-3. The definition and creation of a Knowledge Graph based on a legal ontology, and
-4. The functionality to query the KG using natural language, to make it easily usable for
-anyone.
+---
 
-### Dataset
+## Table of Contents
 
-The dataset consists of approximately 150 food safety case judgements from courts across India.
+1. [Introduction](#introduction)
+2. [Dataset](#dataset)
+3. [Literature Review](#literature-review)
+4. [Methodology](#methodology)
+5. [Results](#results)
+6. [Conclusion and Future Work](#conclusion-and-future-work)
+7. [Appendices](#appendices)
 
-### Methodology
-The methodology can be split into 4 parts, corresponding to the 4 steps defined earlier.
+---
 
-**1. Summarization & Question-Answering**
+## Introduction
 
-The documents will be individually passed to an LLM (LLaMA) to be summarized. This step
-will also include question-answering: the LLM will be asked to extract relevant information
-from each document, the answers for which will be used to extract relevant entities (statutes,
-precedents, names, etc).
+- **Background**: Legal text analysis is complex, requiring tools to handle large corpora efficiently. LLMs can summarize and extract entities from documents but lack corpus-wide context. This limitation is addressed by using the LLMs to populate Knowledge Graphs representing the corpus.
+- **Objectives**:
+  - Automated summarization of legal documents.
+  - Extraction of key legal entities like statutes, provisions, and case participants.
+  - Creation of a Knowledge Graph to represent and analyze entity relationships.
+  - Executing meaningful queries to extract corpus-level insights.
 
-**2. Extraction of Entities**
+## Dataset
 
-The entities we are interested in will have to be extracted from each document. As mentioned
-before, we can use the outputs from the LLM question-answering step to do this. Another
-possible method is to use NER, for which there are publicly available models. The two
-methods can be compared on accuracy on a subset of the corpus, and the better one can be
-chosen.
+A corpus of 196 Indian court cases on food safety was collected, filtered, and preprocessed. Minimal preprocessing was applied to retain document integrity.
 
-**3. Building the Knowledge Graph**
+## Methodology
 
-We first have to create the ontology of the legal space, defining relevant entities and the
-relationships between them. This will shape the questions we ask the LLM. Once the relevant
-entities have been extracted, neo4j can be used to create a Knowledge Graph representing
-this ontology. This will allow us to visualise the relationships, and query the graph for
-insights. However, the final challenge is to make these insights easily accessible to anyone.
+- **Data Collection & Preprocessing**: Used web scraping tools to gather and clean data.
+- **Knowledge Graph Design**: Modeled legal concepts and relationships, emphasizing statutes and provisions.
 
-**4. Natural Language Querying**
+![LDA KG design](https://github.com/user-attachments/assets/6c7ca12e-b447-40ef-9f19-dbbc83cc4eb6)
+  
+- **Entity Extraction**:
+  - Traditional Named Entity Recognition (NER) models.
+  - LLM-based extraction using structured prompts.
+- **Summarization**: Generated concise, accurate document summaries using GPT-4o-mini.
+- **Knowledge Graph Construction**: Populated and queried a Neo4j graph database to identify patterns and trends.
 
-The neo4j graph database can be queried using a Graph RAG (retrieval-augmented generation) pipeline. Natural language queries will be passed to an LLM, which will interact with the graph database to extract relevant nodes, relationships, and other information. This information can then be passed on to the user in natural language through the LLM.
-
-### Knowledge Graph Design
-
-<img src="https://github.com/suyogyj/capstone-legal-docs-analysis/blob/main/LDA%20KG%20design.png" width="500">
+![full_KG](https://github.com/user-attachments/assets/844e0b91-6b10-4012-bf54-440b21c1f47c)
 
 
+## Results
 
+- **LLM Performance**:
+  - Compared LLM and NER models for entity extraction. LLMs demonstrated better generalizability but with mixed precision.
+  - Summarization was assessed using BERT and ROUGE-L metrics.
+- **Knowledge Graph Insights**:
+  - Most frequently cited provisions and related case clusters were identified.
+  - Advanced queries revealed relationships between cases using Jaccard similarity and shared citations.
+
+## Conclusion and Future Work
+
+- **Limitations**: The dataset scope and reliance on graph query languages limit accessibility.
+- **Future Work**:
+  - Expand datasets for broader trends and insights.
+  - Enhance graph relationships to capture more nuanced legal contexts.
+  - Develop a natural language querying interface for user-friendly interactions.
