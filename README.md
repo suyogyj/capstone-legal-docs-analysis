@@ -1,20 +1,22 @@
 # Capstone Project: Legal Text Analytics with Large Language Models
 
-This project explores the integration of Large Language Models (LLMs) and Knowledge Graphs to enhance legal text analytics, focusing on food safety-related cases in India (2022–2023). The methodology and results demonstrate how these techniques can automate summarization, entity extraction, and corpus-level analysis of legal texts.
+This project, supervised by Dr. Lipika Dey and Dr. Partha Pratim Das, explores the use of Large Language Models (LLMs) and Knowledge Graphs to enable legal text analytics, focusing on food safety-related cases in India (2022–2023). The methodology and results demonstrate the feasibility of LLMs+KGs for summarization, entity extraction, and corpus-level analysis of legal texts.
 
 The full report can be found in [Capstone_Report.pdf](https://github.com/suyogyj/capstone-legal-docs-analysis/blob/main/Capstone_Report.pdf).
+
+**Note:** I am currently working on expanding the dataset from ~200 cases to ~<u>2500</u> for further analysis. This project will be continued until at least May 2025 as my capstone *thesis*. We are also working towards submitting the results on this expanded dataset at major conferences.
 
 ---
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Dataset](#dataset)
-3. [Literature Review](#literature-review)
-4. [Methodology](#methodology)
-5. [Results](#results)
-6. [Conclusion and Future Work](#conclusion-and-future-work)
-7. [Appendices](#appendices)
+- [Capstone Project: Legal Text Analytics with Large Language Models](#capstone-project-legal-text-analytics-with-large-language-models)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Dataset](#dataset)
+  - [Methodology](#methodology)
+  - [Results](#results)
+  - [Conclusion and Future Work](#conclusion-and-future-work)
 
 ---
 
