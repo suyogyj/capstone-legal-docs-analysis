@@ -6,7 +6,6 @@ The full report can be found in [Capstone_Report.pdf](https://github.com/suyogyj
 
 **Note:** I am currently working on expanding the dataset from ~200 cases to ~<u>2500</u> for further analysis. This project will be continued until at least May 2025 as my capstone *thesis*. We are also working towards submitting the results on this expanded dataset at major conferences.
 
----
 
 ## Table of Contents
 
@@ -17,9 +16,8 @@ The full report can be found in [Capstone_Report.pdf](https://github.com/suyogyj
   - [Methodology](#methodology)
   - [Results](#results)
   - [Conclusion and Future Work](#conclusion-and-future-work)
-
----
-
+  - [Directory Structure](#directory-structure)
+  
 ## Introduction
 
 - **Background**: Legal text analysis is complex, requiring tools to handle large corpora efficiently. LLMs can summarize and extract entities from documents but lack corpus-wide context. This limitation is addressed by using the LLMs to populate Knowledge Graphs representing the corpus.
@@ -65,3 +63,53 @@ A corpus of 196 Indian court cases on food safety was collected, filtered, and p
   - Expand datasets for broader trends and insights.
   - Enhance graph relationships to capture more nuanced legal contexts.
   - Develop a natural language querying interface for user-friendly interactions.
+
+## Directory Structure
+
+```
+Directory structure:
+└── suyogyj-capstone-legal-docs-analysis/
+    ├── figures/
+    ├── notebooks/
+    │   ├── ner_extraction.ipynb
+    │   ├── openai_extraction.ipynb
+    │   ├── deduplication.ipynb
+    │   ├── case_facts_and_verification.ipynb
+    │   ├── openai_QA.ipynb
+    │   ├── lengths.dat
+    │   ├── accuracy_calculation.ipynb
+    │   ├── create_graph.ipynb
+    │   ├── food_safety_newdocs.csv
+    │   └── llama_summarization.ipynb
+    ├── Capstone_Presentation.pdf
+    ├── sheets/
+    │   ├── food_safety_answers.csv
+    │   ├── LDA_verification_questions.xlsx
+    │   ├── food_safety_questions.csv
+    │   ├── comparison/
+    │   │   ├── comparison_petitioners.csv
+    │   │   ├── comparison_statutes.csv
+    │   │   ├── confusion_matrices/
+    │   │   ├── comparison_provisions.csv
+    │   │   ├── comparison_gpe.csv
+    │   │   ├── comparison_org.csv
+    │   │   ├── comparison_respondents.csv
+    │   │   ├── comparison_precedents.csv
+    │   │   └── comparison_judges.csv
+    │   └── extracted/
+    │       ├── openai_extracted.csv
+    │       └── ner_extracted.csv
+    ├── data_exploration.ipynb
+    ├── scrapers/
+    │   └── kanoon_searchpage_scraper.py
+    ├── Docs/
+    │   ├── food-safety/
+    │   ├── food-safety-old/
+    │   └── green-tribunal-2021-2023/
+    │       ├── green_tribunal_statutes_deduplicated.csv
+    │       └── green_tribunal_NER_tagged.csv
+    ├── README.md
+    ├── Capstone_Report.pdf
+    └── misc/
+        └── queries.txt
+```
