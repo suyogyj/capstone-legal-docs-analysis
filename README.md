@@ -7,9 +7,20 @@ The full report can be found in [Capstone_Report.pdf](https://github.com/suyogyj
 **Note:** I am currently working on expanding the dataset from ~200 cases to ~<u>2500</u> (the documents can be found [here](https://drive.google.com/drive/folders/1OvoYxTg6QT9cXBDkYe6SmyxzlanrB6cy?usp=sharing)) for further analysis. This project will be continued until at least May 2025 as my capstone *thesis*. We are also working towards submitting the results on this expanded dataset at major conferences.
 
 
+## How to use this code
+
+1. Documents are scraped in ```scrapers/kanoon_searchpage_scraper.py```. This code scrapes all cases from **Indian Kanoon** mentioning the *Food Safety and Standards Act* from January 1, 2021 - December 20, 2024. It does this by collecting links from search results from a 2-month-long window, downloading each of them to the specified filepath (you may have to create the folder yourself), and moving to the next 2-month-long window. The windows are used because IndianKanoon only loads up to 400 results for each query, and windows larger than 2/3 months risk losing some of those cases. I am working on making this more easily adaptable to different queries.
+
+2. The ```gpt-4o-mini``` based extraction is done in ```notebooks/openai_extraction.ipynb```. The pipeline is pretty straightforward, you just have to update the path to your documents. The prompts specify food safety cases, but you can update this based on your use-case. The output will be saved in a .csv file.
+   
+3. The NER-based extraction is done in ```notebooks/ner_extraction.ipynb```. For this, the [legal_NER](https://github.com/Legal-NLP-EkStep/legal_NER) library must be installed in your environment, and be present in the parent of the ```/notebooks``` folder. This pipeline works like the earlier one, and saves the output to a .csv. file.
+
+4. The code to create the knowledge graph is in ```notebooks/create_graph.ipynb```. You have to first install neo4j desktop (or just create a db online on the neo4j website), and update the login details in the notebook. Running the notebook should upload the nodes and relationships to your database. The queries listed in ```misc/queries.txt``` are those shown in the Capstone Report.
+
 ## Table of Contents
 
 - [Capstone Project: Legal Text Analytics with Large Language Models](#capstone-project-legal-text-analytics-with-large-language-models)
+  - [How to use this code](#how-to-use-this-code)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Dataset](#dataset)
