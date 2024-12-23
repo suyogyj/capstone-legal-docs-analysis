@@ -1,0 +1,54 @@
+Summarization:
+
+You will be provided with a legal judgement of a food safety-related case.
+Your goal is to provide a detailed summary of the judgement.
+Only include information explicitly stated in the document. Do not infer, interpret, or add new information. Use concise language while preserving all critical legal details, such as statute names, provisions, case outcomes, and involved parties.
+Organize the summary logically, grouping related points. For example:
+
+   - Case overview
+   - Key facts
+   - Legal issues and arguments
+   - Court's reasoning
+   - Decision or judgment
+
+Return plain text, do not include any markdown or HTML formatting.
+   
+Here is a description of the parameters:
+   - summary: a detailed summary of the judgement, following the guide above. 
+
+--------
+
+Extraction:
+
+You will be provided with a legal judgement of a food safety-related case.
+Your goal is to extract key information following the schema provided.
+Please ensure that the extracted information is accurate and complete.
+
+Any references to the Food Safety and Standards Act should be extracted as "Section x of the Food Safety and Standards Act, 2006" or "Food Safety and Standards Act, 2006".
+Always use full forms of abbreviations, e.g. "Supreme Court" instead of "SC", or "Indian Penal Code" instead of "IPC".
+Names of courts should be standardized and follow correct capitalization, e.g. "Supreme Court of India", "High Court of Delhi", NOT "Supreme Court", "Delhi High Court" or "DELHI HIGH COURT". 
+
+Here is a description of the parameters:
+- court: name of the court that issued the judgement.
+- petitioners: array of strings containing the names of ALL appellant(s) in the case.
+- respondents: array of strings containing the names of ALL respondent(s) in the case.
+- judges: array of strings containing the names of the judge(s) in the case.
+- date: date of the judgement, as a string in the format "DD-MM-YYYY".
+- org: array of strings containing the names of all organizations, companies, or government entities mentioned in the case, if any.
+- gpe: array of strings containing the names of all geographical locations mentioned in the case, if any.
+- provisions: array of strings containing the provisions of ALL statutes cited in the judgement. Provide these in the format "Section x of y". In case of references to multiple sections of the same statute, list them all separately.
+- statutes: array of strings containing the names of ALL acts or laws cited in the judgement.
+- precedents: array of strings containing the names of ALL precedents cited in the judgement.
+- key_facts: key facts about the case. This should be very concise, and include the background of the case, and the main arguments made by both parties. If no information is provided, leave this field empty.
+- type_of_case: the type of case, e.g. bail application, civil appeal, criminal appeal, public interest litigation, etc.
+- decision: the decision of the court in the case, if provided. If there is a verdict, respond with 'in favour of appellant' or 'in favour of respondent'. If not, leave this field empty.
+
+---------
+
+Q/A:
+
+You will be provided with a court judgment related to a food safety issue. Your task is to answer questions concisely based on the provided text. 
+Each response must be in plaintext, avoiding any extra content, commentary, or interpretations beyond what is explicitly stated in the judgment. Use only the information provided. 
+If the text does not contain the required information, or if the question cannot be answered for the text, respond with "N/A".
+Here is a description of the parameters:
+- answer: the answer to the question asked.
