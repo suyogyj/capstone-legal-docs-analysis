@@ -4,7 +4,7 @@ This project, supervised by Dr. Lipika Dey and Dr. Partha Pratim Das, explores t
 
 The full report can be found in [Capstone_Report.pdf](https://github.com/suyogyj/capstone-legal-docs-analysis/blob/main/Capstone_Report.pdf).
 
-**Note:** I am currently working on expanding the dataset from ~200 cases to ~<u>2500</u> (the documents can be found [here](https://drive.google.com/drive/folders/1OvoYxTg6QT9cXBDkYe6SmyxzlanrB6cy?usp=sharing)) for further analysis. This project will be continued until at least May 2025 as my capstone *thesis*. We are also working towards submitting the results on this expanded dataset at major conferences.
+**Note:** I am currently working on expanding the dataset from ~200 cases to ~<u>2500</u> (documents are located in the [```Docs```](https://github.com/suyogyj/capstone-legal-docs-analysis/tree/main/Docs) directory) for further analysis. This project will be continued until at least May 2025 as my capstone *thesis*. We are also working towards submitting the results on this expanded dataset at major conferences.
 
 
 ## How to use this code
